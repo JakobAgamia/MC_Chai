@@ -1,0 +1,1008 @@
+
+ Starting structure: [5*]NC 
+ Methode: Full 
+
+ Steps: 50 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 100 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 150 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 200 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 250 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 300 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 350 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 400 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 450 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 500 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 550 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 600 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 650 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 700 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 750 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 800 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 850 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 900 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 950 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1000 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1050 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1100 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1150 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1200 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1250 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1300 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1350 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1400 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1450 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1500 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1550 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1600 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1650 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1700 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1750 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1800 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1850 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1900 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 1950 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2000 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2050 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2100 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2150 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2200 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2250 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2300 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2350 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2400 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2450 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2500 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2550 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2600 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2650 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2700 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2750 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2800 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2850 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2900 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 2950 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3000 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3050 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3100 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3150 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3200 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3250 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3300 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3350 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3400 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3450 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3500 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3550 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3600 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3650 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3700 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3750 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3800 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3850 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3900 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 3950 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4000 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4050 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4100 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4150 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4200 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4250 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4300 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4350 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4400 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4450 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4500 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4550 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4600 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4650 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4700 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4750 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4800 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4850 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4900 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 4950 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5000 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5050 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5100 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5150 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5200 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5250 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5300 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5350 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5400 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5450 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5500 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5550 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5600 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5650 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5700 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5750 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5800 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5850 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5900 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 5950 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6000 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6050 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6100 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6150 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6200 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6250 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6300 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6350 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6400 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6450 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6500 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6550 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6600 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6650 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6700 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6750 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6800 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6850 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6900 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 6950 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7000 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7050 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7100 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7150 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7200 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7250 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7300 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7350 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7400 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7450 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7500 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7550 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7600 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7650 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7700 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7750 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7800 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7850 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7900 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 7950 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8000 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8050 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8100 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8150 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8200 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8250 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8300 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8350 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8400 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8450 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8500 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8550 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8600 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8650 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8700 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8750 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8800 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8850 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8900 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 8950 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9000 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9050 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9100 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9150 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9200 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9250 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9300 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9350 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9400 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9450 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9500 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9550 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9600 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9650 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9700 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9750 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9800 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9850 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9900 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 9950 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 10000 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:CNc1cnn(C)c(=O)c1Cl
+ Steps: 10000 
+ CNc1cnn(C)c(=O)c1Cl 
+ 1.0 
+ similarity: 1.0 

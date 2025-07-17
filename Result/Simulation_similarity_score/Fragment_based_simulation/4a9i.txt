@@ -1,0 +1,1008 @@
+
+ Starting structure: [14*]c1ccccn1 
+ Methode: Full 
+
+ Steps: 50 
+ [16*]c1cc(-c2cc(C(C)=O)n3ccccc23)n2ccccc12 
+ 0.7460219563340323 
+ similarity: 0.7058823529411765 
+ placeholder:{'Bond0': {'placeholder_type1': 6, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 16, 'placeholder_type2': 14}}, best_lig:[16*]c1cc(-c2cc(C(C)=O)n3ccccc23)n2ccccc12
+ Steps: 100 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 150 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 200 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 250 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 300 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 350 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 400 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 450 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 500 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 550 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 600 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 650 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 700 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 750 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 800 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 850 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 900 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 950 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1000 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1050 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1100 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1150 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1200 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1250 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1300 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1350 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1400 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1450 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1500 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1550 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1600 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1650 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1700 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1750 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1800 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1850 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1900 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 1950 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2000 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2050 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2100 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2150 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2200 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2250 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2300 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2350 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2400 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2450 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2500 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2550 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2600 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2650 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2700 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2750 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2800 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2850 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2900 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 2950 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3000 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3050 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3100 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3150 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3200 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3250 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3300 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3350 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3400 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3450 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3500 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3550 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3600 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3650 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3700 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3750 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3800 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3850 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3900 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 3950 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4000 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4050 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4100 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4150 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4200 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4250 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4300 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4350 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4400 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4450 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4500 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4550 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4600 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4650 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4700 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4750 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4800 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4850 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4900 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 4950 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5000 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5050 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5100 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5150 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5200 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5250 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5300 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5350 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5400 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5450 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5500 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5550 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5600 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5650 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5700 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5750 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5800 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5850 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5900 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 5950 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6000 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6050 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6100 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6150 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6200 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6250 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6300 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6350 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6400 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6450 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6500 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6550 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6600 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6650 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6700 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6750 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6800 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6850 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6900 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 6950 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7000 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7050 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7100 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7150 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7200 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7250 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7300 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7350 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7400 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7450 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7500 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7550 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7600 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7650 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7700 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7750 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7800 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7850 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7900 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 7950 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8000 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8050 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8100 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8150 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8200 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8250 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8300 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8350 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8400 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8450 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8500 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8550 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8600 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8650 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8700 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8750 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8800 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8850 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8900 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 8950 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9000 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9050 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9100 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9150 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9200 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9250 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9300 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9350 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9400 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9450 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9500 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9550 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9600 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9650 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9700 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9750 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9800 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9850 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9900 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 9950 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 10000 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 14}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 6}}, best_lig:CC(=O)c1cc(-c2ccccn2)c2ccccn12
+ Steps: 10000 
+ CC(=O)c1cc(-c2ccccn2)c2ccccn12 
+ 1.0 
+ similarity: 1.0 

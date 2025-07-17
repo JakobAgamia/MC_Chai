@@ -1,0 +1,1008 @@
+
+ Starting structure: [5*]N[5*] 
+ Methode: Full 
+
+ Steps: 50 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 100 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 150 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 200 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 250 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 300 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 350 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 400 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 450 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 500 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 550 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 600 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 650 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 700 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 750 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 800 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 850 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 900 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 950 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1000 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1050 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1100 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1150 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1200 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1250 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1300 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1350 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1400 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1450 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1500 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1550 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1600 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1650 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1700 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1750 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1800 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1850 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1900 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 1950 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2000 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2050 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2100 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2150 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2200 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2250 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2300 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2350 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2400 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2450 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2500 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2550 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2600 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2650 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2700 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2750 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2800 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2850 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2900 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 2950 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3000 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3050 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3100 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3150 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3200 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3250 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3300 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3350 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3400 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3450 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3500 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3550 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3600 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3650 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3700 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3750 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3800 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3850 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3900 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 3950 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4000 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4050 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4100 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4150 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4200 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4250 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4300 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4350 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4400 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4450 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4500 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4550 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4600 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4650 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4700 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4750 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4800 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4850 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4900 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 4950 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5000 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5050 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5100 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5150 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5200 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5250 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5300 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5350 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5400 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5450 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5500 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5550 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5600 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5650 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5700 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5750 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5800 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5850 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5900 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 5950 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6000 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6050 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6100 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6150 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6200 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6250 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6300 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6350 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6400 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6450 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6500 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6550 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6600 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6650 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6700 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6750 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6800 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6850 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6900 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 6950 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7000 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7050 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7100 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7150 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7200 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7250 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7300 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7350 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7400 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7450 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7500 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7550 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7600 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7650 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7700 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7750 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7800 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7850 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7900 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 7950 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8000 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8050 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8100 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8150 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8200 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8250 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8300 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8350 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8400 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8450 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8500 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8550 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8600 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8650 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8700 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8750 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8800 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8850 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8900 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 8950 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9000 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9050 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9100 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9150 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9200 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9250 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9300 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9350 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9400 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9450 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9500 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9550 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9600 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9650 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9700 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9750 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9800 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9850 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9900 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 9950 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 10000 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 
+ placeholder:{'Bond0': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond1': {'placeholder_type1': 5, 'placeholder_type2': 16}}, best_lig:Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O
+ Steps: 10000 
+ Cn1ncc(Nc2cccc3c2CC[N@H+](C)C3)c(Cl)c1=O 
+ 1.0 
+ similarity: 1.0 

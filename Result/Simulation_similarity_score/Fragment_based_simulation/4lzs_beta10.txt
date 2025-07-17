@@ -1,0 +1,1008 @@
+
+ Starting structure: [5*]NC 
+ Methode: Full 
+
+ Steps: 50 
+ CCc1[nH]c(C)c(C(C)=O)c1C(=O)NC 
+ 0.7945762711864408 
+ similarity: 0.7457627118644068 
+ placeholder:{'Bond5': {'placeholder_type1': 14, 'placeholder_type2': 8}, 'Bond6': {'placeholder_type1': 16, 'placeholder_type2': 6}, 'Bond7': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CCc1[nH]c(C)c(C(C)=O)c1C(=O)NC
+ Steps: 100 
+ CCc1[nH]c(C)c(C(C)=O)c1C(=O)NC 
+ 0.7945762711864408 
+ similarity: 0.7457627118644068 
+ placeholder:{'Bond5': {'placeholder_type1': 14, 'placeholder_type2': 8}, 'Bond6': {'placeholder_type1': 16, 'placeholder_type2': 6}, 'Bond7': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CCc1[nH]c(C)c(C(C)=O)c1C(=O)NC
+ Steps: 150 
+ CCc1[nH]c(C)c(C(C)=O)c1C(=O)NC 
+ 0.7945762711864408 
+ similarity: 0.7457627118644068 
+ placeholder:{'Bond5': {'placeholder_type1': 14, 'placeholder_type2': 8}, 'Bond6': {'placeholder_type1': 16, 'placeholder_type2': 6}, 'Bond7': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CCc1[nH]c(C)c(C(C)=O)c1C(=O)NC
+ Steps: 200 
+ CCc1[nH]c(C)c(C(C)=O)c1C(=O)NC 
+ 0.7945762711864408 
+ similarity: 0.7457627118644068 
+ placeholder:{'Bond5': {'placeholder_type1': 14, 'placeholder_type2': 8}, 'Bond6': {'placeholder_type1': 16, 'placeholder_type2': 6}, 'Bond7': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CCc1[nH]c(C)c(C(C)=O)c1C(=O)NC
+ Steps: 250 
+ CCc1[nH]c(C)c(C(C)=O)c1C(=O)NC 
+ 0.7945762711864408 
+ similarity: 0.7457627118644068 
+ placeholder:{'Bond5': {'placeholder_type1': 14, 'placeholder_type2': 8}, 'Bond6': {'placeholder_type1': 16, 'placeholder_type2': 6}, 'Bond7': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CCc1[nH]c(C)c(C(C)=O)c1C(=O)NC
+ Steps: 300 
+ CCc1[nH]c(C)c(C(C)=O)c1C(=O)NC 
+ 0.7945762711864408 
+ similarity: 0.7457627118644068 
+ placeholder:{'Bond5': {'placeholder_type1': 14, 'placeholder_type2': 8}, 'Bond6': {'placeholder_type1': 16, 'placeholder_type2': 6}, 'Bond7': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CCc1[nH]c(C)c(C(C)=O)c1C(=O)NC
+ Steps: 350 
+ CCc1[nH]c(C)c(C(C)=O)c1C(=O)NC 
+ 0.7945762711864408 
+ similarity: 0.7457627118644068 
+ placeholder:{'Bond5': {'placeholder_type1': 14, 'placeholder_type2': 8}, 'Bond6': {'placeholder_type1': 16, 'placeholder_type2': 6}, 'Bond7': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CCc1[nH]c(C)c(C(C)=O)c1C(=O)NC
+ Steps: 400 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 450 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 500 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 550 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 600 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 650 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 700 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 750 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 800 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 850 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 900 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 950 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1000 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1050 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1100 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1150 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1200 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1250 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1300 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1350 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1400 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1450 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1500 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1550 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1600 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1650 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1700 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1750 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1800 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1850 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1900 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 1950 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2000 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2050 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2100 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2150 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2200 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2250 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2300 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2350 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2400 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2450 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2500 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2550 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2600 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2650 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2700 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2750 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2800 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2850 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2900 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 2950 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3000 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3050 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3100 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3150 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3200 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3250 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3300 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3350 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3400 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3450 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3500 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3550 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3600 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3650 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3700 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3750 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3800 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3850 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3900 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 3950 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4000 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4050 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4100 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4150 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4200 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4250 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4300 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4350 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4400 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4450 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4500 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4550 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4600 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4650 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4700 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4750 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4800 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4850 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4900 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 4950 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5000 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5050 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5100 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5150 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5200 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5250 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5300 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5350 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5400 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5450 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5500 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5550 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5600 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5650 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5700 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5750 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5800 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5850 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5900 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 5950 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6000 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6050 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6100 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6150 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6200 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6250 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6300 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6350 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6400 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6450 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6500 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6550 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6600 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6650 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6700 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6750 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6800 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6850 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6900 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 6950 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7000 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7050 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7100 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7150 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7200 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7250 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7300 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7350 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7400 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7450 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7500 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7550 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7600 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7650 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7700 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7750 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7800 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7850 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7900 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 7950 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8000 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8050 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8100 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8150 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8200 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8250 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8300 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8350 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8400 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8450 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8500 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8550 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8600 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8650 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8700 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8750 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8800 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8850 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8900 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 8950 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9000 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9050 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9100 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9150 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9200 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9250 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9300 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9350 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9400 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9450 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9500 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9550 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9600 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9650 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9700 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9750 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9800 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9850 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9900 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 9950 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 10000 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 
+ placeholder:{'Bond4': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond8': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond9': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC
+ Steps: 10000 
+ CNC(=O)c1[nH]c(C)c(C(C)=O)c1NC 
+ 0.8558620689655172 
+ similarity: 0.7586206896551724 

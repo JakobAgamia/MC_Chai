@@ -1,0 +1,10408 @@
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ C=CC(=O)C(C)=CC1=CC(O)=CC(CN)=CC1OCC 
+ 0.30903790087463556 
+ similarity: 0.12658227848101267 
+
+ Steps: 200 
+ C=C1:C(C):C:C2:C(O)(:C:1=O)C=C(CNN=O)C=C(O)C=2 
+ 0.3848396501457726 
+ similarity: 0.1794871794871795 
+
+ Steps: 300 
+ C=C(O)C=CC1=CC2=CC(O)=CC(NN=O)=NC2(NO)C1 
+ 0.39118457300275483 
+ similarity: 0.19753086419753085 
+
+ Steps: 400 
+ CNC1=CN=C2C=C(C=S3C=CC([SH]=O)=C3)C(=O)C12N 
+ 0.4489795918367347 
+ similarity: 0.19753086419753085 
+
+ Steps: 500 
+ O=[SH]C1=C[SH](C2=CC3=NC=C(NC=P)C3(F)C2=O)C=C1 
+ 0.4897959183673469 
+ similarity: 0.25 
+
+ Steps: 500 
+ O=[SH]C1=C[SH](C2=CC3=NC=C(NC=P)C3(F)C2=O)C=C1 
+ 0.4897959183673469 
+ similarity: 0.25 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CC1=CC(C)=C(N)C(=CN)C1(NSCC=N)C(N)=CC(C)C 
+ 0.2864583333333333 
+ similarity: 0.12658227848101267 
+
+ Steps: 200 
+ C=CC1=C(NN)CC(SCN)(C2=CC(C=C(S)S)CS2)C=C1 
+ 0.3125 
+ similarity: 0.1411764705882353 
+
+ Steps: 300 
+ NC=Cc1csc(C2(S[SH]=O)C=CSC(C=O)=C(N)S2)c1 
+ 0.44077134986225897 
+ similarity: 0.2222222222222222 
+
+ Steps: 400 
+ NC=Cc1csc(C2(S[SH]=O)C=CSC(C=O)=C(N)S2)c1 
+ 0.44077134986225897 
+ similarity: 0.2222222222222222 
+
+ Steps: 500 
+ NC=Cc1csc(C2(N[SH]=O)C=CSC(C=O)=C(N)S2)c1 
+ 0.4793388429752066 
+ similarity: 0.24691358024691357 
+
+ Steps: 500 
+ NC=Cc1csc(C2(N[SH]=O)C=CSC(C=O)=C(N)S2)c1 
+ 0.4793388429752066 
+ similarity: 0.24691358024691357 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CNCSC1=CC=CC(NC=CC=O)=CC1(C)CN 
+ 0.3333333333333333 
+ similarity: 0.1282051282051282 
+
+ Steps: 200 
+ NC1=C(C(=CC(=O)PO)NO)C=CC=C(CNCl)C1(N)N 
+ 0.3856749311294766 
+ similarity: 0.15 
+
+ Steps: 300 
+ NC1=C(C(=CC(=O)[PH](=O)O)NO)C=CC=C(CNCl)C1(N)N 
+ 0.3958333333333333 
+ similarity: 0.14814814814814814 
+
+ Steps: 400 
+ NC1=C(C(=CC(=O)[PH](=O)O)NO)C=CC=C(CNCl)C1(N)N 
+ 0.3958333333333333 
+ similarity: 0.14814814814814814 
+
+ Steps: 500 
+ NC1=C(C(=CC(=O)[PH](=O)O)NO)C=CC=C(CNCl)C1(N)N 
+ 0.3958333333333333 
+ similarity: 0.14814814814814814 
+
+ Steps: 500 
+ NC1=C(C(=CC(=O)[PH](=O)O)NO)C=CC=C(CNCl)C1(N)N 
+ 0.3958333333333333 
+ similarity: 0.14814814814814814 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CC(=CCCO)C(=P)CCN=C1:C:C(NO):C:C:1OO 
+ 0.18075801749271136 
+ similarity: 0.1282051282051282 
+
+ Steps: 200 
+ C=CC1(C(CC)N=C2C(SO)=C(C)C(NO)=C2N(O)C=O)C=[PH]=CC1(F)ONC 
+ 0.22540250447227192 
+ similarity: 0.16 
+
+ Steps: 300 
+ C=CC(C=C)(N=C1:C:C(NS):C:C:1SOC(O)=NOF)C1(N)C=[PH]=CC1(N)F 
+ 0.2862523540489642 
+ similarity: 0.2 
+
+ Steps: 400 
+ C=CC(C=CC)(N=C1C=C(NS)C=C1SSC(O)=NOF)C1(N)C=[PH]=CC1(N)F 
+ 0.29338103756708406 
+ similarity: 0.16494845360824742 
+
+ Steps: 500 
+ C=CC(C=CC)(N=C1C=C(NS)C=C1SSC(O)=NOF)C1(N)C=[PH]=CC1(N)F 
+ 0.29338103756708406 
+ similarity: 0.16494845360824742 
+
+ Steps: 500 
+ C=CC(C=CC)(N=C1C=C(NS)C=C1SSC(O)=NOF)C1(N)C=[PH]=CC1(N)F 
+ 0.29338103756708406 
+ similarity: 0.16494845360824742 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ NSC1=CNC2=C(C=C1N)C(=S)C=CC2(N)O 
+ 0.3391003460207612 
+ similarity: 0.14084507042253522 
+
+ Steps: 200 
+ CNSC1=CNC2=C(C=C1N)C(=S)C=CC2(N)O 
+ 0.33986928104575165 
+ similarity: 0.13157894736842105 
+
+ Steps: 300 
+ CNSC1=CNC2=C(C=C1N)C(=S)C=CC2(N)O 
+ 0.33986928104575165 
+ similarity: 0.13157894736842105 
+
+ Steps: 400 
+ C=S=C1C=CC(N)(O)C2=C1C=C(N)C(SF)=CN2 
+ 0.3464052287581699 
+ similarity: 0.1643835616438356 
+
+ Steps: 500 
+ O=C[PH](F)N1C=CC2(CCCC2=O)c2ccc(CSNF)cc21 
+ 0.39408866995073893 
+ similarity: 0.22727272727272727 
+
+ Steps: 500 
+ O=C[PH](F)N1C=CC2(CCCC2=O)c2ccc(CSNF)cc21 
+ 0.39408866995073893 
+ similarity: 0.22727272727272727 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ NC1=C(O)C=C(O)[SH2]C(O)=C1N 
+ 0.2648401826484018 
+ similarity: 0.14814814814814814 
+
+ Steps: 200 
+ OC1=CC=C(N[SH]2NCNS2)[SH2]C(Cl)=C1 
+ 0.3178294573643411 
+ similarity: 0.16901408450704225 
+
+ Steps: 300 
+ OC1=CC=C(N[SH]2NCNS2)[SH2]C(Cl)=C1 
+ 0.3178294573643411 
+ similarity: 0.16901408450704225 
+
+ Steps: 400 
+ N[SH]1(C2=CC=NC=C(F)[NH]2)CNC(=O)S[SH]1(N)C(=O)P 
+ 0.37317784256559766 
+ similarity: 0.27848101265822783 
+
+ Steps: 500 
+ N[SH]1(C=O)SC(=O)NC[SH]1(N)C1=CC=NC=C(F)[NH]1 
+ 0.3888888888888889 
+ similarity: 0.3333333333333333 
+
+ Steps: 500 
+ N[SH]1(C=O)SC(=O)NC[SH]1(N)C1=CC=NC=C(F)[NH]1 
+ 0.3888888888888889 
+ similarity: 0.3333333333333333 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CC(=CSC1=CC(SO)=CCC=C1)C(O)=S 
+ 0.32234432234432236 
+ similarity: 0.14285714285714285 
+
+ Steps: 200 
+ CC=CC1(C)C(S)=CC(C=CC=[SH]C)=CC(SO)=C1N 
+ 0.36151603498542273 
+ similarity: 0.12987012987012986 
+
+ Steps: 300 
+ CC=CC1(C)C(S)=CC(C=CC=[SH]C)=CC(SO)=C1N 
+ 0.36151603498542273 
+ similarity: 0.12987012987012986 
+
+ Steps: 400 
+ CC=C1CC2(NF)CNCSC12C1=CC(C)C(N)=C2C(=O)SC2=C1 
+ 0.3776223776223776 
+ similarity: 0.24719101123595505 
+
+ Steps: 500 
+ O=CC1=CC2(C3C=CC=C4:S:C(=O):C:4=C3)C(=CF)CC2(F)O1 
+ 0.4895833333333333 
+ similarity: 0.23529411764705882 
+
+ Steps: 500 
+ O=CC1=CC2(C3C=CC=C4:S:C(=O):C:4=C3)C(=CF)CC2(F)O1 
+ 0.4895833333333333 
+ similarity: 0.23529411764705882 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CC(F)(P)C1=C(O)SC=CC(C=C(N)C=O)=C1 
+ 0.47750865051903113 
+ similarity: 0.2222222222222222 
+
+ Steps: 200 
+ NC(=Cc1cccc(C(F)(F)P)c1)C(=O)O 
+ 0.5934065934065934 
+ similarity: 0.47058823529411764 
+
+ Steps: 300 
+ NNC(F)(F)c1cccc(C=C2NCC(=O)O2)c1 
+ 0.6013071895424836 
+ similarity: 0.5789473684210527 
+
+ Steps: 400 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CC[SH2]12:C(NSP):C:C:C:C(O):C:1:O:N:C:C:2=CC=CS 
+ 0.2809917355371901 
+ similarity: 0.14457831325301204 
+
+ Steps: 200 
+ CC[SH2]12:C(NCSP):C:C:C:C(O):C:1:O:N:C:C:2=CC=CS 
+ 0.28125 
+ similarity: 0.13953488372093023 
+
+ Steps: 300 
+ NC1=CC2=NCC3:C:C:C:C:C:[S]:3(=O)(C3CNS4=CPCN34)C2=C1 
+ 0.289044289044289 
+ similarity: 0.2 
+
+ Steps: 400 
+ NC1=CC2=NCC3:C:C:C:C:C:[S]:3(=O)(C3CNS4=CPCN34)C2=C1 
+ 0.289044289044289 
+ similarity: 0.2 
+
+ Steps: 500 
+ O=C1ONS2=CPC(=[S]34C=CC(O)=CC=C3N=C3C=CC=C34)N12 
+ 0.33497536945812806 
+ similarity: 0.11627906976744186 
+
+ Steps: 500 
+ O=C1ONS2=CPC(=[S]34C=CC(O)=CC=C3N=C3C=CC=C34)N12 
+ 0.33497536945812806 
+ similarity: 0.11627906976744186 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CCC(N)=C=C1C=CC([SH](NF)SC)=C(C)C=C1Cl 
+ 0.2777777777777778 
+ similarity: 0.12987012987012986 
+
+ Steps: 200 
+ O=C1C=CC(=Cc2cccc([SH](F)=C3SCNS3)c2)C1(F)S 
+ 0.546875 
+ similarity: 0.4878048780487805 
+
+ Steps: 300 
+ N=C1CN(c2ccccc2C=C2C=CC(=O)C2(F)F)[SH2]N1 
+ 0.5509641873278237 
+ similarity: 0.3333333333333333 
+
+ Steps: 400 
+ NC1(F)C(=O)C=CC1=CC1=CC(=C2N[SH2]NC2=O)C=CC1 
+ 0.5785123966942148 
+ similarity: 0.33766233766233766 
+
+ Steps: 500 
+ NC1(F)C(=O)C=CC1=CC1=CC(=C2N[SH2]NC2=O)C=CC1 
+ 0.5785123966942148 
+ similarity: 0.33766233766233766 
+
+ Steps: 500 
+ NC1(F)C(=O)C=CC1=CC1=CC(=C2N[SH2]NC2=O)C=CC1 
+ 0.5785123966942148 
+ similarity: 0.33766233766233766 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CCC(C)=C(S)C1=C([SH]F)S2(=O)(NF)C=C(O)C=C2C=C1 
+ 0.39118457300275483 
+ similarity: 0.15384615384615385 
+
+ Steps: 200 
+ O=C(F)NC1=CC=C[SH](SO)C(OF)=C2C=CCC2=C1 
+ 0.4606413994169096 
+ similarity: 0.17721518987341772 
+
+ Steps: 300 
+ O=C(F)NC1=CC=C[SH](SO)C(F)=C2C=CCC2=C1 
+ 0.47530864197530864 
+ similarity: 0.15789473684210525 
+
+ Steps: 400 
+ O=C(F)NC1=CC=C2CC(Cl)=CC2=C(F)[SH]C=C1 
+ 0.5424836601307189 
+ similarity: 0.21333333333333335 
+
+ Steps: 500 
+ O=C(F)NC1=CC=C2CC(Cl)=CC2=C(F)[SH]C=C1 
+ 0.5424836601307189 
+ similarity: 0.21333333333333335 
+
+ Steps: 500 
+ O=C(F)NC1=CC=C2CC(Cl)=CC2=C(F)[SH]C=C1 
+ 0.5424836601307189 
+ similarity: 0.21333333333333335 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ NC1(C2=CC3=C(NCC3)[SH2]C=C2)OC=CN1SO 
+ 0.33986928104575165 
+ similarity: 0.15 
+
+ Steps: 200 
+ NC1(C2:C:C(O):[SH2]:C3:C(:C:2)CCN3)NC=CO1 
+ 0.3460207612456747 
+ similarity: 0.18666666666666668 
+
+ Steps: 300 
+ NC1(C2:C:C(O):[SH2]:C3:C(:C:2)CCN3)NC=CO1 
+ 0.3460207612456747 
+ similarity: 0.18666666666666668 
+
+ Steps: 400 
+ NC1(C2:C:C(O):[SH2]:C3:C(:C:2)CCN3)NC=CO1 
+ 0.3460207612456747 
+ similarity: 0.18666666666666668 
+
+ Steps: 500 
+ CC1(C2=CC=C(F)[SH2]C3=C2C(=COCOP)NN3)NC(N=O)=CO1 
+ 0.3543123543123543 
+ similarity: 0.24719101123595505 
+
+ Steps: 500 
+ CC1(C2=CC=C(F)[SH2]C3=C2C(=COCOP)NN3)NC(N=O)=CO1 
+ 0.3543123543123543 
+ similarity: 0.24719101123595505 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CC1(N)C(NSCl)=CC(C=O)=CC=C1NSC=O 
+ 0.40522875816993464 
+ similarity: 0.17142857142857143 
+
+ Steps: 200 
+ CC1(N)C(NSCl)=CC(C=O)=CC=C1NSC=O 
+ 0.40522875816993464 
+ similarity: 0.17142857142857143 
+
+ Steps: 300 
+ CC1(N):C(NSCl):C:C:C:C(C=O):C:1NNC=O 
+ 0.41830065359477125 
+ similarity: 0.24324324324324326 
+
+ Steps: 400 
+ NC(=O)C1=C(NNC=O)C(O)(SO)C=CC(N)=C1 
+ 0.43790849673202614 
+ similarity: 0.16216216216216217 
+
+ Steps: 500 
+ NC(=O)C1=C(NNC=O)C(O)(SO)C=CC(N)=C1 
+ 0.43790849673202614 
+ similarity: 0.16216216216216217 
+
+ Steps: 500 
+ NC(=O)C1=C(NNC=O)C(O)(SO)C=CC(N)=C1 
+ 0.43790849673202614 
+ similarity: 0.16216216216216217 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ C=C(S)C=C(Sc1ccccc1N)C(OS)=PNS 
+ 0.32098765432098764 
+ similarity: 0.13157894736842105 
+
+ Steps: 200 
+ NOc1cc(N)ccc1SC(C=PNS)=C(O)C(=O)S 
+ 0.36151603498542273 
+ similarity: 0.1518987341772152 
+
+ Steps: 300 
+ O=CC(O)=C(PNS)SC1=CC=CNC=C1 
+ 0.3882783882783883 
+ similarity: 0.136986301369863 
+
+ Steps: 400 
+ CC1=CC(SC(PNS)=C(O)C=O)=CC=CN1 
+ 0.4083044982698962 
+ similarity: 0.13333333333333333 
+
+ Steps: 500 
+ CC1=CC(SC(=CC(N)=O)PNS)=CC=C(N)N1 
+ 0.41830065359477125 
+ similarity: 0.15789473684210525 
+
+ Steps: 500 
+ CC1=CC(SC(=CC(N)=O)PNS)=CC=C(N)N1 
+ 0.41830065359477125 
+ similarity: 0.15789473684210525 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ N=CC=C(NC1=C(OCN=O)C=CCCC1P)SO 
+ 0.2654320987654321 
+ similarity: 0.14634146341463414 
+
+ Steps: 200 
+ N=CC=C(NC1=C(OCN=O)C=CCCC1P)SO 
+ 0.2654320987654321 
+ similarity: 0.14634146341463414 
+
+ Steps: 300 
+ N=CC=C(NC1=CCC(P)CC=C1N=O)SF 
+ 0.2975778546712803 
+ similarity: 0.16216216216216217 
+
+ Steps: 400 
+ N=C(P)C=C(Nc1cc(O)ccc1N)S[SH]=CF 
+ 0.43137254901960786 
+ similarity: 0.21052631578947367 
+
+ Steps: 500 
+ N=C(P)C=C(Nc1cc(O)ccc1N)S[SH]=CF 
+ 0.43137254901960786 
+ similarity: 0.21052631578947367 
+
+ Steps: 500 
+ N=C(P)C=C(Nc1cc(O)ccc1N)S[SH]=CF 
+ 0.43137254901960786 
+ similarity: 0.21052631578947367 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CC(=N)[PH](N)(OC=P)OC1=C(C)C=C(O)C=C(N)N1C 
+ 0.2099125364431487 
+ similarity: 0.12987012987012986 
+
+ Steps: 200 
+ C=CC1=C(O[PH](C=N)OC(N)=P)NC(N)=CC(O)=C1 
+ 0.2654320987654321 
+ similarity: 0.15584415584415584 
+
+ Steps: 300 
+ N=CC1=C(NC(S)=CO)N(N)C=CC(OF)=C1 
+ 0.3391003460207612 
+ similarity: 0.10666666666666667 
+
+ Steps: 400 
+ C=[SH]C(NC1=C(C=N)C=C(OF)C=CN1N)=C(S)SNO 
+ 0.38016528925619836 
+ similarity: 0.11764705882352941 
+
+ Steps: 500 
+ C=[SH]C(NC1=C(C=N)C=C(OF)C=CN1N)=C(S)SNO 
+ 0.38016528925619836 
+ similarity: 0.11764705882352941 
+
+ Steps: 500 
+ C=[SH]C(NC1=C(C=N)C=C(OF)C=CN1N)=C(S)SNO 
+ 0.38016528925619836 
+ similarity: 0.11764705882352941 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CN[SH]1(C2(C)OC(S)=C(C3=CC(OC)=CC(SP)=CC3)NC2=C=O)=P[SH]=NS1 
+ 0.24105461393596986 
+ similarity: 0.13725490196078433 
+
+ Steps: 200 
+ CN[SH]1(C2(C)OC(NS)=C(C3=CC(O)=CC(SP)=CC3)NC2=C=O)=P[SH](C)=NS1 
+ 0.24686940966010734 
+ similarity: 0.13725490196078433 
+
+ Steps: 300 
+ CN1C(C2=C3NCC=C3OC(N)=C2OS)=CC(O)(N[SH]SO)C1=CF 
+ 0.2913907284768212 
+ similarity: 0.1875 
+
+ Steps: 400 
+ C1=CC(=C2C=CC(C3=CC=C4NCC=C43)=N2)NN1 
+ 0.38562091503267976 
+ similarity: 0.1388888888888889 
+
+ Steps: 500 
+ OC1(F)SC2=CC=CC2=C1C1=CNNC1=C1C=C(P)C=N1 
+ 0.42424242424242425 
+ similarity: 0.14634146341463414 
+
+ Steps: 500 
+ OC1(F)SC2=CC=CC2=C1C1=CNNC1=C1C=C(P)C=N1 
+ 0.42424242424242425 
+ similarity: 0.14634146341463414 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ C=C(C=CF)[SH]C1=[N+]N=C(F)C(N)=C1 
+ 0.28688524590163933 
+ similarity: 0.17647058823529413 
+
+ Steps: 200 
+ CC=CC1=C(F)N[NH+]C(N)=C1[SH]C=C(C=CCO)PF 
+ 0.4139941690962099 
+ similarity: 0.14814814814814814 
+
+ Steps: 300 
+ CC=CC1=C(F)N[NH+]C(N)=C1[SH]C=C(C=CCO)PF 
+ 0.4139941690962099 
+ similarity: 0.14814814814814814 
+
+ Steps: 400 
+ CC=CC1=C(F)N[NH+]C(N)=C1[SH]C=C(C=CCO)PF 
+ 0.4139941690962099 
+ similarity: 0.14814814814814814 
+
+ Steps: 500 
+ NC1=C([SH]C=C(C=CO)NF)C(C=CO)=C(F)N[NH+]1 
+ 0.4382716049382716 
+ similarity: 0.18666666666666668 
+
+ Steps: 500 
+ NC1=C([SH]C=C(C=CO)NF)C(C=CO)=C(F)N[NH+]1 
+ 0.4382716049382716 
+ similarity: 0.18666666666666668 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CC1=CC=CC(N)(CSF)N=C1 
+ 0.2191780821917808 
+ similarity: 0.18461538461538463 
+
+ Steps: 200 
+ C=C(C)C=C(C)C=C(P)NC1(SF)N=C(N)C(C)=CC=C1N 
+ 0.3177083333333333 
+ similarity: 0.15 
+
+ Steps: 300 
+ C=C(C)C=C(C)C=C(P)NC1(SF)N=C(N)C(C)=CC=C1N 
+ 0.3177083333333333 
+ similarity: 0.15 
+
+ Steps: 400 
+ CC1=CC=C(N)C(F)(NC(P)=CC=C(F)C=CC=N)N=C1 
+ 0.3691460055096419 
+ similarity: 0.15 
+
+ Steps: 500 
+ CC1=CC(Cl)=C(N)C(F)(NC(=CC=C(N)C=CC=N)P=O)N=C1 
+ 0.3842364532019704 
+ similarity: 0.13953488372093023 
+
+ Steps: 500 
+ CC1=CC(Cl)=C(N)C(F)(NC(=CC=C(N)C=CC=N)P=O)N=C1 
+ 0.3842364532019704 
+ similarity: 0.13953488372093023 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CC1=CC(N)=C(C2=C[SH](C)(N)(C=O)C(S)=C2)[SH2]C1F 
+ 0.36419753086419754 
+ similarity: 0.21052631578947367 
+
+ Steps: 200 
+ CC(=O)[S]12(C)(S)C=C(C3=CC=CC(C)(F)[SH2]3)C=C1SN2 
+ 0.4489795918367347 
+ similarity: 0.225 
+
+ Steps: 300 
+ CC(=O)S12C=C(C3=CC=CC(O)(F)[SH2]3)C=C1SN2 
+ 0.48366013071895425 
+ similarity: 0.21052631578947367 
+
+ Steps: 400 
+ CC(=O)S12C=C(C3=CC=CC(O)(F)[SH2]3)C=C1SN2 
+ 0.48366013071895425 
+ similarity: 0.21052631578947367 
+
+ Steps: 500 
+ CC(=O)S12C=C(C3=CC=CC(O)(F)[SH2]3)C=C1SN2 
+ 0.48366013071895425 
+ similarity: 0.21052631578947367 
+
+ Steps: 500 
+ CC(=O)S12C=C(C3=CC=CC(O)(F)[SH2]3)C=C1SN2 
+ 0.48366013071895425 
+ similarity: 0.21052631578947367 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CC1=C(C(=C=CCCCS)NN)N=CC=C(N)N1N[SH]=O 
+ 0.29201101928374656 
+ similarity: 0.11764705882352941 
+
+ Steps: 200 
+ C=CCC(S)(C=N)C(C)=C=C(NN)C1=C(O)NC(ON[SH]=O)=CC=N1 
+ 0.3090507726269316 
+ similarity: 0.1935483870967742 
+
+ Steps: 300 
+ C=CCC(S)(C=N)C(C)=C=C(NN)C1=C(O)NC(ON[SH]=O)=CC=N1 
+ 0.3090507726269316 
+ similarity: 0.1935483870967742 
+
+ Steps: 400 
+ C=CCC(S)(C=N)C(C)=C=C(NN)C1=C(O)NC(ON[SH]=O)=CC=N1 
+ 0.3090507726269316 
+ similarity: 0.1935483870967742 
+
+ Steps: 500 
+ CCC=c1c(NCNC)noc1=CC1=CC=C([SH]=O)NN=C1 
+ 0.3541666666666667 
+ similarity: 0.17073170731707318 
+
+ Steps: 500 
+ CCC=c1c(NCNC)noc1=CC1=CC=C([SH]=O)NN=C1 
+ 0.3541666666666667 
+ similarity: 0.17073170731707318 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CC1C(=O)C=C(N)C=C1C(F)C(=CP)NC=O 
+ 0.3806228373702422 
+ similarity: 0.16216216216216217 
+
+ Steps: 200 
+ CC1C(=O)C=CC=C1C(F)(OP)C(=CP)NC=O 
+ 0.39215686274509803 
+ similarity: 0.21052631578947367 
+
+ Steps: 300 
+ CC1C(=O)C=CC=C1C(F)(OP)C(C=O)=CP 
+ 0.3944636678200692 
+ similarity: 0.22535211267605634 
+
+ Steps: 400 
+ CC1C(=O)C=CC=C1C(F)(OP)C(C=O)=CP 
+ 0.3944636678200692 
+ similarity: 0.22535211267605634 
+
+ Steps: 500 
+ CC(N)=CC(=O)C(O)(F)C1:C:C(=O):C:C:C:1(C)N 
+ 0.45098039215686275 
+ similarity: 0.3287671232876712 
+
+ Steps: 500 
+ CC(N)=CC(=O)C(O)(F)C1:C:C(=O):C:C:C:1(C)N 
+ 0.45098039215686275 
+ similarity: 0.3287671232876712 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ NNCC1=CC2=CC(CO)=CCC=C2CC1(O)O 
+ 0.3137254901960784 
+ similarity: 0.1111111111111111 
+
+ Steps: 200 
+ CNNC1=CC2=CC(C)=CC(N)(O)C=C2C1(O)O 
+ 0.33986928104575165 
+ similarity: 0.14705882352941177 
+
+ Steps: 300 
+ CNNC1=CC2=CC(C)=CC(N)(O)C=C2C1(O)O 
+ 0.33986928104575165 
+ similarity: 0.14705882352941177 
+
+ Steps: 400 
+ CNNC1=CC2=CC(C)=CC(N)(O)C=C2C1(O)O 
+ 0.33986928104575165 
+ similarity: 0.14705882352941177 
+
+ Steps: 500 
+ C=CSOC1(NC)[SH2]C(NNO)=CC2:C:C(C):C:C(N)(O):C:C:21 
+ 0.35467980295566504 
+ similarity: 0.1590909090909091 
+
+ Steps: 500 
+ C=CSOC1(NC)[SH2]C(NNO)=CC2:C:C(C):C:C(N)(O):C:C:21 
+ 0.35467980295566504 
+ similarity: 0.1590909090909091 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C(Cl)C(=O)SNP1(=O):C:C:C:C:1 
+ 0.329004329004329 
+ similarity: 0.1016949152542373 
+
+ Steps: 200 
+ O=C(Cl)C(=O)SNP1(=O):C:C:C:C:1 
+ 0.329004329004329 
+ similarity: 0.1016949152542373 
+
+ Steps: 300 
+ CNC=C1C=CC(N)=P1(S)N(Cl)SC(=O)C=O 
+ 0.35294117647058826 
+ similarity: 0.18666666666666668 
+
+ Steps: 400 
+ C=C1S[PH]2(NSC(=O)C=O)(=C(N)C=CC2=CCF)C[PH]1=S 
+ 0.3581267217630854 
+ similarity: 0.21176470588235294 
+
+ Steps: 500 
+ C=C1PC(=S)[PH]2(NSC(=O)C=O)(=CC=CC2=CCF)S1 
+ 0.40233236151603496 
+ similarity: 0.1927710843373494 
+
+ Steps: 500 
+ C=C1PC(=S)[PH]2(NSC(=O)C=O)(=CC=CC2=CCF)S1 
+ 0.40233236151603496 
+ similarity: 0.1927710843373494 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ C=CCc1c(C=CP)cc(N)cc1C(=O)SN 
+ 0.3737024221453287 
+ similarity: 0.136986301369863 
+
+ Steps: 200 
+ C=C(Cc1ccc(N)cc1C(=O)SN)NC=CP 
+ 0.40522875816993464 
+ similarity: 0.16 
+
+ Steps: 300 
+ CC1=CSN=CC(C=C2C=CC=C(N)C2(NN)C(=O)F)=C1 
+ 0.4793388429752066 
+ similarity: 0.21686746987951808 
+
+ Steps: 400 
+ O=CC1(F)C(N=O)=CC=C(P)C1=CC1=CC(F)=CSN=C1 
+ 0.5454545454545454 
+ similarity: 0.19753086419753085 
+
+ Steps: 500 
+ O=CC1(F)C(N=O)=CC=C(P)C1=CC1=CC(F)=CSN=C1 
+ 0.5454545454545454 
+ similarity: 0.19753086419753085 
+
+ Steps: 500 
+ O=CC1(F)C(N=O)=CC=C(P)C1=CC1=CC(F)=CSN=C1 
+ 0.5454545454545454 
+ similarity: 0.19753086419753085 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CNNSCC1=C(NO)C(C=NC(=O)C=N)=CC1=O 
+ 0.36419753086419754 
+ similarity: 0.12658227848101267 
+
+ Steps: 200 
+ CNNN[SH]C1=CC2=C(NS(C=O)=C2)C1=O 
+ 0.40293040293040294 
+ similarity: 0.17142857142857143 
+
+ Steps: 300 
+ CNNN[SH]C1=CC2=C(NS(C=O)=C2)C1=O 
+ 0.40293040293040294 
+ similarity: 0.17142857142857143 
+
+ Steps: 400 
+ CNN[SH]C1=CC2=C(NS(C=O)=C2)C1=O 
+ 0.40310077519379844 
+ similarity: 0.17391304347826086 
+
+ Steps: 500 
+ CNN[SH]C1=CC2=C(NS(C=O)=C2)C1=O 
+ 0.40310077519379844 
+ similarity: 0.17391304347826086 
+
+ Steps: 500 
+ CNN[SH]C1=CC2=C(NS(C=O)=C2)C1=O 
+ 0.40310077519379844 
+ similarity: 0.17391304347826086 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ C=C1C=P2(:C:c3ccc(O)cc3:C:2)NN1 
+ 0.3875968992248062 
+ similarity: 0.15384615384615385 
+
+ Steps: 200 
+ Fc1ccc2c(c1)=CP1(=CC(=P)NN1)C=2 
+ 0.40310077519379844 
+ similarity: 0.21875 
+
+ Steps: 300 
+ O=P12(=CC(=S)NN1)C=c1ccc(F)cc1=C2 
+ 0.43956043956043955 
+ similarity: 0.208955223880597 
+
+ Steps: 400 
+ O=P12(=CC(=S)NN1)C=c1ccc(F)cc1=C2 
+ 0.43956043956043955 
+ similarity: 0.208955223880597 
+
+ Steps: 500 
+ O=P12(=CC(=S)NN1)C=c1ccc(F)cc1=C2 
+ 0.43956043956043955 
+ similarity: 0.208955223880597 
+
+ Steps: 500 
+ O=P12(=CC(=S)NN1)C=c1ccc(F)cc1=C2 
+ 0.43956043956043955 
+ similarity: 0.208955223880597 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CC=PC1=C(S)C(C(=O)SSS)=CC=CN1 
+ 0.32967032967032966 
+ similarity: 0.1388888888888889 
+
+ Steps: 200 
+ CC=[SH]OSC(O)(P=CF)C1=CC(C=O)=CC=CN1 
+ 0.345679012345679 
+ similarity: 0.19753086419753085 
+
+ Steps: 300 
+ CC=[SH]OSC(O)(P=CF)C1=CC(C=O)=CC=CN1 
+ 0.345679012345679 
+ similarity: 0.19753086419753085 
+
+ Steps: 400 
+ CC=[SH]NSC(O)(P=CF)C1=CC(C(=O)S)=CC=CN1 
+ 0.36151603498542273 
+ similarity: 0.1951219512195122 
+
+ Steps: 500 
+ C=CC1=C[SH2]C(O)=CC(C2(F)C(=CC)P=C(F)C[SH]2OO)=C1C=O 
+ 0.3962703962703963 
+ similarity: 0.17777777777777778 
+
+ Steps: 500 
+ C=CC1=C[SH2]C(O)=CC(C2(F)C(=CC)P=C(F)C[SH]2OO)=C1C=O 
+ 0.3962703962703963 
+ similarity: 0.17777777777777778 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CSC12NCCC1=CC=C(C)C(OC=C(N)S)=C2C 
+ 0.2839506172839506 
+ similarity: 0.21052631578947367 
+
+ Steps: 200 
+ CC1=C(OC=CSS)C=CC=C2CCNC21SF 
+ 0.3333333333333333 
+ similarity: 0.22784810126582278 
+
+ Steps: 300 
+ O=[SH]C1=C2[SH2]CC(P)=CC2=CC2(SF)NCC(=CF)C2=C1 
+ 0.44077134986225897 
+ similarity: 0.21686746987951808 
+
+ Steps: 400 
+ CC1=C2C=CC(N)(P=O)[SH2]C2=CC=C2C(=CF)CNC21F 
+ 0.45179063360881544 
+ similarity: 0.2222222222222222 
+
+ Steps: 500 
+ CC1=C2C=CC(N)(P=O)[SH2]C2=CC=C2C(=CF)CNC21F 
+ 0.45179063360881544 
+ similarity: 0.2222222222222222 
+
+ Steps: 500 
+ CC1=C2C=CC(N)(P=O)[SH2]C2=CC=C2C(=CF)CNC21F 
+ 0.45179063360881544 
+ similarity: 0.2222222222222222 
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CSCCC(C=S=S)C1(OO)C(S)C2=C(C(N)=O)C=CCN=C2N1P 
+ 0.16777041942604856 
+ similarity: 0.14736842105263157 
+
+ Steps: 200 
+ NC1=[SH](C2=NC3=NC=CC(NC=O)(SF)C3=C2C=[SH]O)=[SH]CC1N 
+ 0.32634032634032634 
+ similarity: 0.19148936170212766 
+
+ Steps: 300 
+ CC1=NC2=NC=CC(OC=O)(SF)C(=C1C(=CO)C1NN3C=[SH]C=C3S1)C=C2 
+ 0.3314500941619586 
+ similarity: 0.1836734693877551 
+
+ Steps: 400 
+ C=C(C1=C2C=CC(=NC=C3N[SH](F)C32OC=O)N=C1)[SH]1=CN2NCSC2=C1 
+ 0.3333333333333333 
+ similarity: 0.20202020202020202 
+
+ Steps: 500 
+ C=C(C1=C2C=CC(=NC=C3N[SH](F)C32OC=O)N=C1)[SH]1=CN2NCSC2=C1 
+ 0.3333333333333333 
+ similarity: 0.20202020202020202 
+
+ Steps: 500 
+ C=C(C1=C2C=CC(=NC=C3N[SH](F)C32OC=O)N=C1)[SH]1=CN2NCSC2=C1 
+ 0.3333333333333333 
+ similarity: 0.20202020202020202 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1OC(=Cc2cccc(C(F)(F)F)c2)SC1=O 
+ 0.7647058823529411 
+ similarity: 0.6956521739130435 
+
+ Steps: 200 
+ O=C1OC(=Cc2cccc(C(F)(F)F)c2)SC1=O 
+ 0.7647058823529411 
+ similarity: 0.6956521739130435 
+
+ Steps: 300 
+ O=C1OC(=Cc2cccc(C(F)(F)F)c2)SC1=O 
+ 0.7647058823529411 
+ similarity: 0.6956521739130435 
+
+ Steps: 400 
+ O=C1OC(=Cc2cccc(C(F)(F)F)c2)SC1=O 
+ 0.7647058823529411 
+ similarity: 0.6956521739130435 
+
+ Steps: 500 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)SC1=O 
+ 0.8104575163398693 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)SC1=O 
+ 0.8104575163398693 
+ similarity: 0.7714285714285715 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 300 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 400 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)SC1=O 
+ 0.8104575163398693 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)SC1=O 
+ 0.8104575163398693 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)SC1=O 
+ 0.8104575163398693 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)SC1=O 
+ 0.8104575163398693 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)SC1=O 
+ 0.8104575163398693 
+ similarity: 0.7714285714285715 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NNC(=Cc2cccc(C(F)(F)F)c2)O1 
+ 0.7335640138408305 
+ similarity: 0.6666666666666666 
+
+ Steps: 200 
+ O=C1NNC(=Cc2cccc(C(F)(F)F)c2)O1 
+ 0.7335640138408305 
+ similarity: 0.6666666666666666 
+
+ Steps: 300 
+ O=C1NNC(=Cc2cccc(C(F)(F)F)c2)O1 
+ 0.7335640138408305 
+ similarity: 0.6666666666666666 
+
+ Steps: 400 
+ O=C1NNC(=Cc2cccc(C(F)(F)F)c2)O1 
+ 0.7335640138408305 
+ similarity: 0.6666666666666666 
+
+ Steps: 500 
+ O=C1NNC(=Cc2cccc(C(F)(F)F)c2)N1 
+ 0.740484429065744 
+ similarity: 0.7058823529411765 
+
+ Steps: 500 
+ O=C1NNC(=Cc2cccc(C(F)(F)F)c2)N1 
+ 0.740484429065744 
+ similarity: 0.7058823529411765 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 300 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)S2)c1 
+ 0.7530864197530864 
+ similarity: 0.64 
+
+ Steps: 400 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)S2)c1 
+ 0.7530864197530864 
+ similarity: 0.64 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)S2)c1 
+ 0.7530864197530864 
+ similarity: 0.64 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)S2)c1 
+ 0.7530864197530864 
+ similarity: 0.64 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 300 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 400 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 300 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 400 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=Cc2cccc(C(F)(F)S)c2)NC1=O 
+ 0.6601307189542484 
+ similarity: 0.6567164179104478 
+
+ Steps: 200 
+ O=C1NC(=Cc2cccc(C(F)(F)S)c2)NC1=O 
+ 0.6601307189542484 
+ similarity: 0.6567164179104478 
+
+ Steps: 300 
+ O=C1NC(=Cc2cccc(C(F)(F)S)c2)SC1=O 
+ 0.7516339869281046 
+ similarity: 0.6666666666666666 
+
+ Steps: 400 
+ O=C1NC(=Cc2cccc(C(F)(F)S)c2)SC1=O 
+ 0.7516339869281046 
+ similarity: 0.6666666666666666 
+
+ Steps: 500 
+ O=C1NC(=Cc2cccc(C(F)(F)S)c2)SC1=O 
+ 0.7516339869281046 
+ similarity: 0.6666666666666666 
+
+ Steps: 500 
+ O=C1NC(=Cc2cccc(C(F)(F)S)c2)SC1=O 
+ 0.7516339869281046 
+ similarity: 0.6666666666666666 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 300 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 400 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)OC1=O 
+ 0.6993464052287581 
+ similarity: 0.7246376811594203 
+
+ Steps: 200 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)OC1=O 
+ 0.6993464052287581 
+ similarity: 0.7246376811594203 
+
+ Steps: 300 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)OC1=O 
+ 0.6993464052287581 
+ similarity: 0.7246376811594203 
+
+ Steps: 400 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)NC1=O 
+ 0.7124183006535948 
+ similarity: 0.7692307692307693 
+
+ Steps: 500 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)NC1=O 
+ 0.7124183006535948 
+ similarity: 0.7692307692307693 
+
+ Steps: 500 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)NC1=O 
+ 0.7124183006535948 
+ similarity: 0.7692307692307693 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 300 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 400 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=Cc2cccc(C(F)(F)NF)c2)OC1=O 
+ 0.6666666666666666 
+ similarity: 0.6027397260273972 
+
+ Steps: 200 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)OC1=O 
+ 0.6993464052287581 
+ similarity: 0.7246376811594203 
+
+ Steps: 300 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)OC1=O 
+ 0.6993464052287581 
+ similarity: 0.7246376811594203 
+
+ Steps: 400 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)OC1=O 
+ 0.6993464052287581 
+ similarity: 0.7246376811594203 
+
+ Steps: 500 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)OC1=O 
+ 0.6993464052287581 
+ similarity: 0.7246376811594203 
+
+ Steps: 500 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)OC1=O 
+ 0.6993464052287581 
+ similarity: 0.7246376811594203 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 300 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 400 
+ NC(F)(F)c1cccc(C=C2NC(=O)C(=O)N2)c1 
+ 0.6535947712418301 
+ similarity: 0.6865671641791045 
+
+ Steps: 500 
+ NC(F)(F)c1cccc(C=C2NC(=O)C(=O)N2)c1 
+ 0.6535947712418301 
+ similarity: 0.6865671641791045 
+
+ Steps: 500 
+ NC(F)(F)c1cccc(C=C2NC(=O)C(=O)N2)c1 
+ 0.6535947712418301 
+ similarity: 0.6865671641791045 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 300 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 400 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NC(F)(F)c1cccc(C=C2NC(=O)C(=O)N2)c1 
+ 0.6535947712418301 
+ similarity: 0.6865671641791045 
+
+ Steps: 500 
+ NC(F)(F)c1cccc(C=C2NC(=O)C(=O)N2)c1 
+ 0.6535947712418301 
+ similarity: 0.6865671641791045 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 300 
+ O=C1CNC(=Cc2cccc(C(F)(F)F)c2)N1 
+ 0.6851211072664359 
+ similarity: 0.7142857142857143 
+
+ Steps: 400 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)NC1=O 
+ 0.7124183006535948 
+ similarity: 0.7692307692307693 
+
+ Steps: 500 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)NC1=O 
+ 0.7124183006535948 
+ similarity: 0.7692307692307693 
+
+ Steps: 500 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)NC1=O 
+ 0.7124183006535948 
+ similarity: 0.7692307692307693 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 300 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 400 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)OC1=O 
+ 0.6993464052287581 
+ similarity: 0.7246376811594203 
+
+ Steps: 200 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)OC1=O 
+ 0.6993464052287581 
+ similarity: 0.7246376811594203 
+
+ Steps: 300 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)OC1=O 
+ 0.6993464052287581 
+ similarity: 0.7246376811594203 
+
+ Steps: 400 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)OC1=O 
+ 0.6993464052287581 
+ similarity: 0.7246376811594203 
+
+ Steps: 500 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)OC1=O 
+ 0.6993464052287581 
+ similarity: 0.7246376811594203 
+
+ Steps: 500 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)OC1=O 
+ 0.6993464052287581 
+ similarity: 0.7246376811594203 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ CC(F)(F)c1cccc(C=C2NC(=O)C(=O)N2)c1 
+ 0.6535947712418301 
+ similarity: 0.6567164179104478 
+
+ Steps: 200 
+ CC(F)(F)c1cccc(C=C2NC(=O)C(=O)N2)c1 
+ 0.6535947712418301 
+ similarity: 0.6567164179104478 
+
+ Steps: 300 
+ O=C1NCC(=Cc2cccc(C(F)(F)F)c2)C1=O 
+ 0.8562091503267973 
+ similarity: 0.7246376811594203 
+
+ Steps: 400 
+ O=C1NCC(=Cc2cccc(C(F)(F)F)c2)C1=O 
+ 0.8562091503267973 
+ similarity: 0.7246376811594203 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ CNC(F)(F)c1cccc(C=C2NC(=O)C(N)S2)c1 
+ 0.6604938271604939 
+ similarity: 0.5714285714285714 
+
+ Steps: 200 
+ NC(F)(F)c1cccc(C=C2NC(=O)NS2)c1 
+ 0.7612456747404844 
+ similarity: 0.6376811594202898 
+
+ Steps: 300 
+ NC(F)(F)c1cccc(C=C2NC(=O)NS2)c1 
+ 0.7612456747404844 
+ similarity: 0.6376811594202898 
+
+ Steps: 400 
+ NC(F)(F)c1cccc(C=C2NC(=O)NS2)c1 
+ 0.7612456747404844 
+ similarity: 0.6376811594202898 
+
+ Steps: 500 
+ NC(F)(F)c1cccc(C=C2NC(=O)NS2)c1 
+ 0.7612456747404844 
+ similarity: 0.6376811594202898 
+
+ Steps: 500 
+ NC(F)(F)c1cccc(C=C2NC(=O)NS2)c1 
+ 0.7612456747404844 
+ similarity: 0.6376811594202898 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 300 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 400 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NCNC1=Cc1cccc(C(F)(F)F)c1 
+ 0.740484429065744 
+ similarity: 0.7246376811594203 
+
+ Steps: 200 
+ O=C1NCNC1=Cc1cccc(C(F)(F)F)c1 
+ 0.740484429065744 
+ similarity: 0.7246376811594203 
+
+ Steps: 300 
+ O=C1NCNC1=Cc1cccc(C(F)(F)F)c1 
+ 0.740484429065744 
+ similarity: 0.7246376811594203 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)N1 
+ 0.8888888888888888 
+ similarity: 0.7352941176470589 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)N1 
+ 0.8888888888888888 
+ similarity: 0.7352941176470589 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)N1 
+ 0.8888888888888888 
+ similarity: 0.7352941176470589 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 300 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 400 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 300 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 400 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 300 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 400 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ O=C1NNC(=Cc2cccc(C(O)(F)F)c2)N1 
+ 0.6643598615916955 
+ similarity: 0.6 
+
+ Steps: 300 
+ O=C1NNC(=Cc2cccc(C(O)(F)F)c2)N1 
+ 0.6643598615916955 
+ similarity: 0.6 
+
+ Steps: 400 
+ O=C1NNC(=Cc2cccc(C(O)(F)F)c2)N1 
+ 0.6643598615916955 
+ similarity: 0.6 
+
+ Steps: 500 
+ O=C1NCC(=Cc2cccc(C(O)(F)F)c2)N1 
+ 0.671280276816609 
+ similarity: 0.6111111111111112 
+
+ Steps: 500 
+ O=C1NCC(=Cc2cccc(C(O)(F)F)c2)N1 
+ 0.671280276816609 
+ similarity: 0.6111111111111112 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 300 
+ NC(F)(F)c1cccc(C=C2NCNC2=O)c1 
+ 0.671280276816609 
+ similarity: 0.647887323943662 
+
+ Steps: 400 
+ NC(F)(F)c1cccc(C=C2NCNC2=O)c1 
+ 0.671280276816609 
+ similarity: 0.647887323943662 
+
+ Steps: 500 
+ NC(F)(F)c1cccc(C=C2NC(=P)NC2=O)c1 
+ 0.7124183006535948 
+ similarity: 0.647887323943662 
+
+ Steps: 500 
+ NC(F)(F)c1cccc(C=C2NC(=P)NC2=O)c1 
+ 0.7124183006535948 
+ similarity: 0.647887323943662 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)OC1=O 
+ 0.6993464052287581 
+ similarity: 0.7246376811594203 
+
+ Steps: 200 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)OC1=O 
+ 0.6993464052287581 
+ similarity: 0.7246376811594203 
+
+ Steps: 300 
+ O=C1NNC(=Cc2cccc(C(F)(F)F)c2)N1 
+ 0.740484429065744 
+ similarity: 0.7058823529411765 
+
+ Steps: 400 
+ O=C1NNC(=Cc2cccc(C(F)(F)F)c2)N1 
+ 0.740484429065744 
+ similarity: 0.7058823529411765 
+
+ Steps: 500 
+ O=C1NNC(=Cc2cccc(C(F)(F)F)c2)N1 
+ 0.740484429065744 
+ similarity: 0.7058823529411765 
+
+ Steps: 500 
+ O=C1NNC(=Cc2cccc(C(F)(F)F)c2)N1 
+ 0.740484429065744 
+ similarity: 0.7058823529411765 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 300 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 400 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 200 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ 0.6481481481481481 
+ similarity: 0.5945945945945946 
+
+ Steps: 300 
+ NNC(F)(F)c1cccc(C=C2OC(=O)C(=O)S2)c1 
+ 0.7098765432098766 
+ similarity: 0.5675675675675675 
+
+ Steps: 400 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)S2)c1 
+ 0.7530864197530864 
+ similarity: 0.64 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)S2)c1 
+ 0.7530864197530864 
+ similarity: 0.64 
+
+ Steps: 500 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)S2)c1 
+ 0.7530864197530864 
+ similarity: 0.64 
+
+ Starting structure: NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)O2)c1 
+ Methode: Full 
+
+ Steps: 100 
+ NNC(F)(F)c1cccc(C=C2NC(=O)C(=O)N2)c1 
+ 0.654320987654321 
+ similarity: 0.6285714285714286 
+
+ Steps: 200 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)NC1=O 
+ 0.7124183006535948 
+ similarity: 0.7692307692307693 
+
+ Steps: 300 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)NS1 
+ 0.7197231833910035 
+ similarity: 0.7428571428571429 
+
+ Steps: 400 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)NS1 
+ 0.7197231833910035 
+ similarity: 0.7428571428571429 
+
+ Steps: 500 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)NS1 
+ 0.7197231833910035 
+ similarity: 0.7428571428571429 
+
+ Steps: 500 
+ O=C1NC(=Cc2cccc(C(F)(F)F)c2)NS1 
+ 0.7197231833910035 
+ similarity: 0.7428571428571429 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 200 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 300 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 400 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Steps: 500 
+ O=C1CC(=Cc2cccc(C(F)(F)F)c2)C(=O)N1 
+ 0.8888888888888888 
+ similarity: 0.7714285714285715 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Starting structure: O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ Methode: Full 
+
+ Steps: 100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 600 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 700 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 800 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 900 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 1000 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 1100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 1200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 1300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 1400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 1500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 1600 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 1700 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 1800 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 1900 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 2000 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 2100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 2200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 2300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 2400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 2500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 2600 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 2700 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 2800 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 2900 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 3000 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 3100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 3200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 3300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 3400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 3500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 3600 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 3700 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 3800 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 3900 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 4000 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 4100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 4200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 4300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 4400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 4500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 4600 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 4700 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 4800 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 4900 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 5000 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 5100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 5200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 5300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 5400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 5500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 5600 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 5700 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 5800 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 5900 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 6000 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 6100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 6200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 6300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 6400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 6500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 6600 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 6700 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 6800 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 6900 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 7000 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 7100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 7200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 7300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 7400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 7500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 7600 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 7700 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 7800 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 7900 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 8000 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 8100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 8200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 8300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 8400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 8500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 8600 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 8700 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 8800 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 8900 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 9000 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 9100 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 9200 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 9300 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 9400 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 9500 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 9600 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 9700 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 9800 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 9900 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 10000 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
+
+ Steps: 10000 
+ O=C1NC(=O)C(=Cc2cccc(C(F)(F)F)c2)S1 
+ 1.0 
+ similarity: 1.0 
