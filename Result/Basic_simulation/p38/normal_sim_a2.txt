@@ -1,0 +1,108 @@
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CCCC(CN)(CCCC1C(CCSC)=C(O)C2CCOC21NCC)NN 
+ tensor([0.6833]) 
+ similarity: 0.15384615384615385 
+
+ Steps: 200 
+ CCCC(CC=C1C(C[SH](C)CNC)=C(O)C2CCCOC12)(CNC)NN 
+ tensor([0.7756]) 
+ similarity: 0.1896551724137931 
+
+ Steps: 300 
+ CCCC(CC=C1C(C[SH](C)COC)=C(O)C2=C1OCCC2)(CNC)NN 
+ tensor([0.7790]) 
+ similarity: 0.15254237288135594 
+
+ Steps: 400 
+ CCCC(CC=C1C(C[SH](C)COC)=C(O)C2=C1OCCC2)(CNC)NN 
+ tensor([0.7790]) 
+ similarity: 0.15254237288135594 
+
+ Steps: 500 
+ CCC(CNC)(CC(C)=C1:C2:C(:C(O):C:1C(=S)[SH]COC)CCC2)NN 
+ tensor([0.8124]) 
+ similarity: 0.14414414414414414 
+
+ Steps: 600 
+ CCC(CNC)(CC(C)=C1:C2:C(:C(O):C:1C(=S)[SH]COC)CCC2)NN 
+ tensor([0.8124]) 
+ similarity: 0.14414414414414414 
+
+ Steps: 700 
+ CCNCC(CC(C)=C1:C2:C(:C(O):C:1C(=S)COC)CCC2)(NN)C(C)N 
+ tensor([0.8295]) 
+ similarity: 0.15789473684210525 
+
+ Steps: 800 
+ CCNCC(CC(C)=C1:C2:C(:C(O):C:1C(=S)COC)CCC2)(NN)C(C)N 
+ tensor([0.8295]) 
+ similarity: 0.15789473684210525 
+
+ Steps: 900 
+ CCNCC(CC(C)=C1:C2:C(:C(O):C:1C(=S)COC)CCC2)(NN)C(C)N 
+ tensor([0.8295]) 
+ similarity: 0.15789473684210525 
+
+ Steps: 1000 
+ CCCN(N)C(CC(C)=C1:C2:C(:C(O):C:1C(=S)COC)CCC2)(NCC)C(C)N 
+ tensor([0.8368]) 
+ similarity: 0.17094017094017094 
+
+ Steps: 1100 
+ CCCN(N)C(CC(C)=C1:C2:C(:C(O):C:1C(=S)COC)CCC2)(NCC)C(C)N 
+ tensor([0.8368]) 
+ similarity: 0.17094017094017094 
+
+ Steps: 1200 
+ CCCN(N)C(CC(C)=C1:C2:C(:C(O):C:1C(=S)COC)CCC2)(NCC)C(C)N 
+ tensor([0.8368]) 
+ similarity: 0.17094017094017094 
+
+ Steps: 1300 
+ CCCN(N)C(CC(C)=C1:C2:C(:C(O):C:1C(=S)COC)CCC2)(NCC)C(C)N 
+ tensor([0.8368]) 
+ similarity: 0.17094017094017094 
+
+ Steps: 1400 
+ CCCN(N)C(CC(C)=C1:C2:C(:C(O):C:1C(=S)COC)CCC2)(NCC)C(C)N 
+ tensor([0.8368]) 
+ similarity: 0.17094017094017094 
+
+ Steps: 1500 
+ CCCN(N)C(CC(C)=C1:C2:C(:C(O):C:1C(=S)COC)CCC2)(NCC)C(C)N 
+ tensor([0.8368]) 
+ similarity: 0.17094017094017094 
+
+ Steps: 1600 
+ CCOCC(=S)C1=C(N)C2=C(CCC2)C1=C(C)CC(NC(C)C)(ON(O)N(N)CCCO)C(=N)N 
+ tensor([0.8392]) 
+ similarity: 0.13114754098360656 
+
+ Steps: 1700 
+ CCNC(CC(C)=C1C2=C(CCC2)C(N)=C1C(=S)COCCCN)(ONN(CN)CC(O)O)C(=N)N 
+ tensor([0.8463]) 
+ similarity: 0.176 
+
+ Steps: 1800 
+ CCNC(CC(C)=C1C2=C(CCC2)C(N)=C1C(=S)COCCCN)(ONN(CN)CC(O)O)C(=N)N 
+ tensor([0.8470]) 
+ similarity: 0.176 
+
+ Steps: 1900 
+ CCNC(CC(C)=C1C2=C(CCC2)C(N)=C1C(=S)COCCCN)(ONN(CN)CC(O)O)C(=N)N 
+ tensor([0.8470]) 
+ similarity: 0.176 
+
+ Steps: 2000 
+ CCNC(CC(C)=C1C2=C(CCC2)C(N)=C1C(=S)COCCCCN)(ON(O)N(CN)CCO)C(=N)N 
+ tensor([0.8476]) 
+ similarity: 0.16 
+
+ Steps: 2000 
+ CCNC(CC(C)=C1C2=C(CCC2)C(N)=C1C(=S)COCCCCN)(ON(O)N(CN)CCO)C(=N)N 
+ tensor([0.8476]) 
+ similarity: 0.16 

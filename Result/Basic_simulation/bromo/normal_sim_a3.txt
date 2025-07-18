@@ -1,0 +1,108 @@
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CCC1NNN(C)CO1 
+ tensor([0.8054]) 
+ similarity: 0.0963855421686747 
+
+ Steps: 200 
+ CCCCC1NNN(C)C1C 
+ tensor([0.8781]) 
+ similarity: 0.11904761904761904 
+
+ Steps: 300 
+ C=C(CC)C1NNN(C)C1C 
+ tensor([0.8826]) 
+ similarity: 0.11764705882352941 
+
+ Steps: 400 
+ C=C(CCCC)N1NC(=N[SH]CC)CN(C)C1=O 
+ tensor([0.8886]) 
+ similarity: 0.16326530612244897 
+
+ Steps: 500 
+ C=C(CCCC)N1NC(=N[SH]CC)CN(C)C1=O 
+ tensor([0.8886]) 
+ similarity: 0.16326530612244897 
+
+ Steps: 600 
+ C=C(C1CCCNC1)n1oc(=NC[SH]C)n(C)c1=O 
+ tensor([0.9094]) 
+ similarity: 0.16981132075471697 
+
+ Steps: 700 
+ C=C(C1CCCNC1)n1oc(=NC[SH]C)n(C)c1=O 
+ tensor([0.9094]) 
+ similarity: 0.16981132075471697 
+
+ Steps: 800 
+ C=C(C1CCCNC1)n1oc(=NC[SH]C)n(C)c1=O 
+ tensor([0.9098]) 
+ similarity: 0.16981132075471697 
+
+ Steps: 900 
+ C=C(C1CCCNC1)n1oc(=NC[SH]C)n(C)c1=O 
+ tensor([0.9098]) 
+ similarity: 0.16981132075471697 
+
+ Steps: 1000 
+ C=C(C1CCCNC1)n1oc(=NC[SH]C)n(C)c1=O 
+ tensor([0.9101]) 
+ similarity: 0.16981132075471697 
+
+ Steps: 1100 
+ C=C(C1CCCNC1)n1oc(=NC[SH]C)n(C)c1=O 
+ tensor([0.9101]) 
+ similarity: 0.16981132075471697 
+
+ Steps: 1200 
+ CCC=C1CCC(=CN)N1CCn1oc(=NC)n(C)c1=O 
+ tensor([0.9172]) 
+ similarity: 0.13861386138613863 
+
+ Steps: 1300 
+ CCC=C1CCC(=CN)N1CCn1oc(=NC)n(C)c1=O 
+ tensor([0.9172]) 
+ similarity: 0.13861386138613863 
+
+ Steps: 1400 
+ CCC1CCC(C)(N)N1CCCn1oc(=NC)n(C)c1=O 
+ tensor([0.9181]) 
+ similarity: 0.1523809523809524 
+
+ Steps: 1500 
+ CCC1CCC(C)(N)N1CCCn1oc(=NC)n(C)c1=O 
+ tensor([0.9181]) 
+ similarity: 0.1523809523809524 
+
+ Steps: 1600 
+ CCC1CCC(C)(N)N1CCCn1oc(=NC)n(C)c1=O 
+ tensor([0.9181]) 
+ similarity: 0.1523809523809524 
+
+ Steps: 1700 
+ CCC1CCC(C)(N)N1CCCn1oc(=NC)n(C)c1=O 
+ tensor([0.9181]) 
+ similarity: 0.1523809523809524 
+
+ Steps: 1800 
+ CCC1CCC(C)(N)N1CCCn1oc(=NC)n(C)c1=O 
+ tensor([0.9181]) 
+ similarity: 0.1523809523809524 
+
+ Steps: 1900 
+ CCC1CCC(C)(N)N1CCCn1oc(=NC)n(C)c1=O 
+ tensor([0.9181]) 
+ similarity: 0.1523809523809524 
+
+ Steps: 2000 
+ CCC1CCC(C)(N)N1CCCn1oc(=NC)n(C)c1=O 
+ tensor([0.9181]) 
+ similarity: 0.1523809523809524 
+
+ Steps: 2000 
+ CCC1CCC(C)(N)N1CCCn1oc(=NC)n(C)c1=O 
+ tensor([0.9181]) 
+ similarity: 0.1523809523809524 

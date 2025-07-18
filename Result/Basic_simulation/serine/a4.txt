@@ -1,0 +1,108 @@
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ C=C(C)CNc1ccc(C)c(CCC(C)O)c1OCC 
+ tensor([0.8214]) 
+ similarity: 0.17647058823529413 
+
+ Steps: 200 
+ CCOCCOc1c(CCSCC)c([SH3])cc2cc(CO)cn12 
+ tensor([0.8471]) 
+ similarity: 0.09259259259259259 
+
+ Steps: 300 
+ CCCC1=C([SH3])C(CC)C(C)(OCC)n2ccc(CO)c21 
+ tensor([0.8532]) 
+ similarity: 0.19230769230769232 
+
+ Steps: 400 
+ CCC1C([SH3])=C(COC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8565]) 
+ similarity: 0.2037037037037037 
+
+ Steps: 500 
+ CCC1C([SH3])=C(COC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8567]) 
+ similarity: 0.2037037037037037 
+
+ Steps: 600 
+ CCC1C([SH3])=C(COC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8567]) 
+ similarity: 0.2037037037037037 
+
+ Steps: 700 
+ CCC1C([SH3])=C(COC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8567]) 
+ similarity: 0.2037037037037037 
+
+ Steps: 800 
+ CCCC1C([SH3])=C(COC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8573]) 
+ similarity: 0.2 
+
+ Steps: 900 
+ CCCC1C([SH3])=C(COC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8573]) 
+ similarity: 0.2 
+
+ Steps: 1000 
+ CCCC1C([SH3])=C(COC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8573]) 
+ similarity: 0.2 
+
+ Steps: 1100 
+ CCCC1C([SH3])=C(OC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8642]) 
+ similarity: 0.2222222222222222 
+
+ Steps: 1200 
+ CCCC1C([SH3])=C(OC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8642]) 
+ similarity: 0.2222222222222222 
+
+ Steps: 1300 
+ CCCC1C([SH3])=C(OC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8642]) 
+ similarity: 0.2222222222222222 
+
+ Steps: 1400 
+ CCCC1C([SH3])=C(OC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8642]) 
+ similarity: 0.2222222222222222 
+
+ Steps: 1500 
+ CCCC1C([SH3])=C(OC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8642]) 
+ similarity: 0.2222222222222222 
+
+ Steps: 1600 
+ CCCC1C([SH3])=C(OC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8642]) 
+ similarity: 0.2222222222222222 
+
+ Steps: 1700 
+ CCCC1C([SH3])=C(OC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8642]) 
+ similarity: 0.2222222222222222 
+
+ Steps: 1800 
+ CCCC1C([SH3])=C(OC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8642]) 
+ similarity: 0.2222222222222222 
+
+ Steps: 1900 
+ CCCC1C([SH3])=C(OC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8642]) 
+ similarity: 0.2222222222222222 
+
+ Steps: 2000 
+ CCCC1C([SH3])=C(OC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8642]) 
+ similarity: 0.2222222222222222 
+
+ Steps: 2000 
+ CCCC1C([SH3])=C(OC)c2c(CO)ccn2C1(C)OCNC 
+ tensor([0.8642]) 
+ similarity: 0.2222222222222222 

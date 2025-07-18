@@ -1,0 +1,108 @@
+
+ Starting structure: [14*]c1nc([14*])c([14*])[nH]1 
+ Methode: Full 
+
+ Steps: 50 
+ [8*][C@H]([NH3+])CNC(=O)c1nc(OC)c(-c2ccc3c(c2)OCCO3)[nH]1 
+ tensor([0.8210]) 
+ similarity: 0.12903225806451613 
+ placeholder:{'Bond3': {'placeholder_type1': 14, 'placeholder_type2': 3}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 16}, 'Bond2': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond4': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond5': {'placeholder_type1': 5, 'placeholder_type2': 4}}, best_lig:[8*][C@H]([NH3+])CNC(=O)c1nc(OC)c(-c2ccc3c(c2)OCCO3)[nH]1
+ Steps: 100 
+ [8*][C@H]([NH3+])CNC(=O)c1nc(OC)c(-c2ccc3c(c2)OCCO3)[nH]1 
+ tensor([0.8210]) 
+ similarity: 0.12903225806451613 
+ placeholder:{'Bond3': {'placeholder_type1': 14, 'placeholder_type2': 3}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 16}, 'Bond2': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond4': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond5': {'placeholder_type1': 5, 'placeholder_type2': 4}}, best_lig:[8*][C@H]([NH3+])CNC(=O)c1nc(OC)c(-c2ccc3c(c2)OCCO3)[nH]1
+ Steps: 150 
+ [8*][C@H]([NH3+])CNC(=O)c1nc(OC)c(-c2ccc3c(c2)OCCO3)[nH]1 
+ tensor([0.8210]) 
+ similarity: 0.12903225806451613 
+ placeholder:{'Bond3': {'placeholder_type1': 14, 'placeholder_type2': 3}, 'Bond1': {'placeholder_type1': 14, 'placeholder_type2': 16}, 'Bond2': {'placeholder_type1': 14, 'placeholder_type2': 6}, 'Bond4': {'placeholder_type1': 1, 'placeholder_type2': 5}, 'Bond5': {'placeholder_type1': 5, 'placeholder_type2': 4}}, best_lig:[8*][C@H]([NH3+])CNC(=O)c1nc(OC)c(-c2ccc3c(c2)OCCO3)[nH]1
+ Steps: 200 
+ COc1nc(CCN2CCOCC2)[nH]c1-c1ccncc1 
+ tensor([0.8260]) 
+ similarity: 0.15384615384615385 
+ placeholder:{'Bond3': {'placeholder_type1': 14, 'placeholder_type2': 3}, 'Bond6': {'placeholder_type1': 14, 'placeholder_type2': 16}, 'Bond2': {'placeholder_type1': 14, 'placeholder_type2': 8}, 'Bond4': {'placeholder_type1': 4, 'placeholder_type2': 5}}, best_lig:COc1nc(CCN2CCOCC2)[nH]c1-c1ccncc1
+ Steps: 250 
+ [4*]Cc1nc(-c2nc(C3CCN(c4ccc(F)cc4)CC3)[nH]c2-c2ccncc2)cs1 
+ tensor([0.8348]) 
+ similarity: 0.2085889570552147 
+ placeholder:{'Bond6': {'placeholder_type1': 14, 'placeholder_type2': 16}, 'Bond2': {'placeholder_type1': 14, 'placeholder_type2': 15}, 'Bond4': {'placeholder_type1': 5, 'placeholder_type2': 16}, 'Bond3': {'placeholder_type1': 14, 'placeholder_type2': 14}, 'Bond5': {'placeholder_type1': 14, 'placeholder_type2': 8}}, best_lig:[4*]Cc1nc(-c2nc(C3CCN(c4ccc(F)cc4)CC3)[nH]c2-c2ccncc2)cs1
+ Steps: 300 
+ NC(=O)c1ccc(Cl)c(-c2ccc(C3CC[NH2+]CC3)c3ccccc23)c1 
+ tensor([0.8722]) 
+ similarity: 0.1643835616438356 
+ placeholder:{'Bond1': {'placeholder_type1': 16, 'placeholder_type2': 15}, 'Bond2': {'placeholder_type1': 16, 'placeholder_type2': 16}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:NC(=O)c1ccc(Cl)c(-c2ccc(C3CC[NH2+]CC3)c3ccccc23)c1
+ Steps: 350 
+ NC(=O)c1ccc(Cl)c(-c2ccc(C3CC[NH2+]CC3)c3ccccc23)c1 
+ tensor([0.8722]) 
+ similarity: 0.1643835616438356 
+ placeholder:{'Bond1': {'placeholder_type1': 16, 'placeholder_type2': 15}, 'Bond2': {'placeholder_type1': 16, 'placeholder_type2': 16}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:NC(=O)c1ccc(Cl)c(-c2ccc(C3CC[NH2+]CC3)c3ccccc23)c1
+ Steps: 400 
+ NC(=O)c1ccc(Cl)c(-c2ccc(C3CC[NH2+]CC3)c3ccccc23)c1 
+ tensor([0.8722]) 
+ similarity: 0.1643835616438356 
+ placeholder:{'Bond1': {'placeholder_type1': 16, 'placeholder_type2': 15}, 'Bond2': {'placeholder_type1': 16, 'placeholder_type2': 16}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:NC(=O)c1ccc(Cl)c(-c2ccc(C3CC[NH2+]CC3)c3ccccc23)c1
+ Steps: 450 
+ NC(=O)c1ccc(Cl)c(-c2ccc(C3CC[NH2+]CC3)c3ccccc23)c1 
+ tensor([0.8722]) 
+ similarity: 0.1643835616438356 
+ placeholder:{'Bond1': {'placeholder_type1': 16, 'placeholder_type2': 15}, 'Bond2': {'placeholder_type1': 16, 'placeholder_type2': 16}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:NC(=O)c1ccc(Cl)c(-c2ccc(C3CC[NH2+]CC3)c3ccccc23)c1
+ Steps: 500 
+ NC(=O)c1ccc(Cl)c(-c2ccc(C3CC[NH2+]CC3)c3ccccc23)c1 
+ tensor([0.8722]) 
+ similarity: 0.1643835616438356 
+ placeholder:{'Bond1': {'placeholder_type1': 16, 'placeholder_type2': 15}, 'Bond2': {'placeholder_type1': 16, 'placeholder_type2': 16}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:NC(=O)c1ccc(Cl)c(-c2ccc(C3CC[NH2+]CC3)c3ccccc23)c1
+ Steps: 550 
+ NC(=O)c1ccc(Cl)c(-c2ccc(C3CC[NH2+]CC3)c3ccccc23)c1 
+ tensor([0.8722]) 
+ similarity: 0.1643835616438356 
+ placeholder:{'Bond1': {'placeholder_type1': 16, 'placeholder_type2': 15}, 'Bond2': {'placeholder_type1': 16, 'placeholder_type2': 16}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:NC(=O)c1ccc(Cl)c(-c2ccc(C3CC[NH2+]CC3)c3ccccc23)c1
+ Steps: 600 
+ NC(=O)c1ccc(Cl)c(-c2ccc(C3CC[NH2+]CC3)c3ccccc23)c1 
+ tensor([0.8722]) 
+ similarity: 0.1643835616438356 
+ placeholder:{'Bond1': {'placeholder_type1': 16, 'placeholder_type2': 15}, 'Bond2': {'placeholder_type1': 16, 'placeholder_type2': 16}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}}, best_lig:NC(=O)c1ccc(Cl)c(-c2ccc(C3CC[NH2+]CC3)c3ccccc23)c1
+ Steps: 650 
+ NC(=O)c1ccc(Cl)c(-c2ccc3c(c2)CCc2ccccc2[C@H]3O)c1 
+ tensor([0.8739]) 
+ similarity: 0.1456953642384106 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}, 'Bond1': {'placeholder_type1': 16, 'placeholder_type2': 16}}, best_lig:NC(=O)c1ccc(Cl)c(-c2ccc3c(c2)CCc2ccccc2[C@H]3O)c1
+ Steps: 700 
+ NC(=O)c1ccc(Cl)c(-c2ccc3c(c2)CCc2ccccc2[C@H]3O)c1 
+ tensor([0.8739]) 
+ similarity: 0.1456953642384106 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}, 'Bond1': {'placeholder_type1': 16, 'placeholder_type2': 16}}, best_lig:NC(=O)c1ccc(Cl)c(-c2ccc3c(c2)CCc2ccccc2[C@H]3O)c1
+ Steps: 750 
+ NC(=O)c1ccc(Cl)c(-c2ccc3c(c2)CCc2ccccc2[C@H]3O)c1 
+ tensor([0.8739]) 
+ similarity: 0.1456953642384106 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}, 'Bond1': {'placeholder_type1': 16, 'placeholder_type2': 16}}, best_lig:NC(=O)c1ccc(Cl)c(-c2ccc3c(c2)CCc2ccccc2[C@H]3O)c1
+ Steps: 800 
+ NC(=O)c1ccc(Cl)c(-c2ccc3c(c2)CCc2ccccc2[C@H]3O)c1 
+ tensor([0.8739]) 
+ similarity: 0.1456953642384106 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}, 'Bond1': {'placeholder_type1': 16, 'placeholder_type2': 16}}, best_lig:NC(=O)c1ccc(Cl)c(-c2ccc3c(c2)CCc2ccccc2[C@H]3O)c1
+ Steps: 850 
+ NC(=O)c1ccc(Cl)c(-c2ccc3c(c2)CCc2ccccc2[C@H]3O)c1 
+ tensor([0.8739]) 
+ similarity: 0.1456953642384106 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}, 'Bond1': {'placeholder_type1': 16, 'placeholder_type2': 16}}, best_lig:NC(=O)c1ccc(Cl)c(-c2ccc3c(c2)CCc2ccccc2[C@H]3O)c1
+ Steps: 900 
+ NC(=O)c1ccc(Cl)c(-c2ccc3c(c2)CCc2ccccc2[C@H]3O)c1 
+ tensor([0.8739]) 
+ similarity: 0.1456953642384106 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}, 'Bond1': {'placeholder_type1': 16, 'placeholder_type2': 16}}, best_lig:NC(=O)c1ccc(Cl)c(-c2ccc3c(c2)CCc2ccccc2[C@H]3O)c1
+ Steps: 950 
+ [9*]n1c(=O)[nH]c2cc(-c3cc(C(N)=O)ccc3Cl)cnc21 
+ tensor([0.8790]) 
+ similarity: 0.18309859154929578 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}, 'Bond1': {'placeholder_type1': 16, 'placeholder_type2': 16}}, best_lig:[9*]n1c(=O)[nH]c2cc(-c3cc(C(N)=O)ccc3Cl)cnc21
+ Steps: 1000 
+ [9*]n1c(=O)[nH]c2cc(-c3cc(C(N)=O)ccc3Cl)cnc21 
+ tensor([0.8790]) 
+ similarity: 0.18309859154929578 
+ placeholder:{'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 6}, 'Bond1': {'placeholder_type1': 16, 'placeholder_type2': 16}}, best_lig:[9*]n1c(=O)[nH]c2cc(-c3cc(C(N)=O)ccc3Cl)cnc21
+ Steps: 1000 
+ [9*]n1c(=O)[nH]c2cc(-c3cc(C(N)=O)ccc3Cl)cnc21 
+ tensor([0.8790]) 
+ similarity: 0.18309859154929578 

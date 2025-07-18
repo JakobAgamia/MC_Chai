@@ -1,0 +1,58 @@
+
+ Starting structure: [7*]C[8*] 
+ Methode: Full 
+
+ Steps: 50 
+ CC(C)Oc1cccc(OC(C)C)c1N1CCC[C@@H]([NH3+])C1 
+ tensor([0.7722]) 
+ similarity: 0.6721311475409836 
+ placeholder:{'Bond2': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond4': {'placeholder_type1': 16, 'placeholder_type2': 3}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 3}, 'Bond5': {'placeholder_type1': 3, 'placeholder_type2': 4}, 'Bond6': {'placeholder_type1': 3, 'placeholder_type2': 4}}, best_lig:CC(C)Oc1cccc(OC(C)C)c1N1CCC[C@@H]([NH3+])C1
+ Steps: 100 
+ [7*]Cc1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1 
+ tensor([0.8585]) 
+ similarity: 0.6625 
+ placeholder:{'Bond6': {'placeholder_type1': 16, 'placeholder_type2': 16}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 8}, 'Bond2': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond4': {'placeholder_type1': 16, 'placeholder_type2': 8}, 'Bond5': {'placeholder_type1': 7, 'placeholder_type2': 7}}, best_lig:[7*]Cc1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1
+ Steps: 150 
+ [7*]Cc1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1 
+ tensor([0.8585]) 
+ similarity: 0.6625 
+ placeholder:{'Bond6': {'placeholder_type1': 16, 'placeholder_type2': 16}, 'Bond3': {'placeholder_type1': 16, 'placeholder_type2': 8}, 'Bond2': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond4': {'placeholder_type1': 16, 'placeholder_type2': 8}, 'Bond5': {'placeholder_type1': 7, 'placeholder_type2': 7}}, best_lig:[7*]Cc1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1
+ Steps: 200 
+ [16*]c1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1 
+ tensor([0.8649]) 
+ similarity: 0.6842105263157895 
+ placeholder:{'Bond6': {'placeholder_type1': 16, 'placeholder_type2': 16}, 'Bond2': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond4': {'placeholder_type1': 16, 'placeholder_type2': 8}, 'Bond5': {'placeholder_type1': 7, 'placeholder_type2': 7}}, best_lig:[16*]c1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1
+ Steps: 250 
+ [16*]c1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1 
+ tensor([0.8649]) 
+ similarity: 0.6842105263157895 
+ placeholder:{'Bond6': {'placeholder_type1': 16, 'placeholder_type2': 16}, 'Bond2': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond4': {'placeholder_type1': 16, 'placeholder_type2': 8}, 'Bond5': {'placeholder_type1': 7, 'placeholder_type2': 7}}, best_lig:[16*]c1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1
+ Steps: 300 
+ [16*]c1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1 
+ tensor([0.8649]) 
+ similarity: 0.6842105263157895 
+ placeholder:{'Bond6': {'placeholder_type1': 16, 'placeholder_type2': 16}, 'Bond2': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond4': {'placeholder_type1': 16, 'placeholder_type2': 8}, 'Bond5': {'placeholder_type1': 7, 'placeholder_type2': 7}}, best_lig:[16*]c1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1
+ Steps: 350 
+ [16*]c1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1 
+ tensor([0.8649]) 
+ similarity: 0.6842105263157895 
+ placeholder:{'Bond6': {'placeholder_type1': 16, 'placeholder_type2': 16}, 'Bond2': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond4': {'placeholder_type1': 16, 'placeholder_type2': 8}, 'Bond5': {'placeholder_type1': 7, 'placeholder_type2': 7}}, best_lig:[16*]c1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1
+ Steps: 400 
+ [16*]c1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1 
+ tensor([0.8649]) 
+ similarity: 0.6842105263157895 
+ placeholder:{'Bond6': {'placeholder_type1': 16, 'placeholder_type2': 16}, 'Bond2': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond4': {'placeholder_type1': 16, 'placeholder_type2': 8}, 'Bond5': {'placeholder_type1': 7, 'placeholder_type2': 7}}, best_lig:[16*]c1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1
+ Steps: 450 
+ [16*]c1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1 
+ tensor([0.8649]) 
+ similarity: 0.6842105263157895 
+ placeholder:{'Bond6': {'placeholder_type1': 16, 'placeholder_type2': 16}, 'Bond2': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond4': {'placeholder_type1': 16, 'placeholder_type2': 8}, 'Bond5': {'placeholder_type1': 7, 'placeholder_type2': 7}}, best_lig:[16*]c1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1
+ Steps: 500 
+ [16*]c1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1 
+ tensor([0.8649]) 
+ similarity: 0.6842105263157895 
+ placeholder:{'Bond6': {'placeholder_type1': 16, 'placeholder_type2': 16}, 'Bond2': {'placeholder_type1': 16, 'placeholder_type2': 5}, 'Bond4': {'placeholder_type1': 16, 'placeholder_type2': 8}, 'Bond5': {'placeholder_type1': 7, 'placeholder_type2': 7}}, best_lig:[16*]c1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1
+ Steps: 500 
+ [16*]c1cccc([16*])c1-c1cccc(C=C2SC(=O)NC2=O)c1N1CCC[C@@H]([NH3+])C1 
+ tensor([0.8649]) 
+ similarity: 0.6842105263157895 

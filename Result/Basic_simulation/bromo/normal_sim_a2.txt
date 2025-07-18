@@ -1,0 +1,108 @@
+
+ Starting structure: c1ccccc1 
+ Methode: Full 
+
+ Steps: 100 
+ CC1:N:N:C2:C(:C:1CF)CCCC2 
+ tensor([0.8871]) 
+ similarity: 0.17582417582417584 
+
+ Steps: 200 
+ CC1:N:N:C2:C(:C:1CF)CCCC2 
+ tensor([0.8871]) 
+ similarity: 0.17582417582417584 
+
+ Steps: 300 
+ Cc1nnc2c(c1CCCF)C1CC=NC1C2 
+ tensor([0.9080]) 
+ similarity: 0.20618556701030927 
+
+ Steps: 400 
+ Cc1nnc2c(c1NC=CF)C1CCNC1C2 
+ tensor([0.9125]) 
+ similarity: 0.16326530612244897 
+
+ Steps: 500 
+ CCC1CN(CC)C2=C1c1c(nnc(C)c1CCOF)C2 
+ tensor([0.9129]) 
+ similarity: 0.19230769230769232 
+
+ Steps: 600 
+ CCC1CN(CC)C2=C1c1c(nnc(C)c1CCOF)C2 
+ tensor([0.9129]) 
+ similarity: 0.19230769230769232 
+
+ Steps: 700 
+ CCc1c(C)nnc2c1C1=C(C2)c2c(C)c(C)cn2CC1CNC 
+ tensor([0.9188]) 
+ similarity: 0.24074074074074073 
+
+ Steps: 800 
+ C=CNCC1Cn2cc(C)c(C)c2C2=C1c1c(nnc(C)c1CC)C2 
+ tensor([0.9192]) 
+ similarity: 0.23214285714285715 
+
+ Steps: 900 
+ C=CNCC1Cn2cc(C)c(C)c2C2=C1c1c(nnc(C)c1CC)C2 
+ tensor([0.9192]) 
+ similarity: 0.23214285714285715 
+
+ Steps: 1000 
+ C=CNCC1Cn2cc(C)c(C)c2C2=C1c1c(nnc(C)c1CC)C2 
+ tensor([0.9192]) 
+ similarity: 0.23214285714285715 
+
+ Steps: 1100 
+ C=CNCC1Cn2cc(C)c(C)c2C2=C1c1c(nnc(C)c1CC)C2 
+ tensor([0.9192]) 
+ similarity: 0.23214285714285715 
+
+ Steps: 1200 
+ C=CNCC1Cn2cc(C)c(C)c2C2=C1c1c(nnc(C)c1CC)C2 
+ tensor([0.9192]) 
+ similarity: 0.23214285714285715 
+
+ Steps: 1300 
+ C=CNCC1Cn2cc(C)c(C)c2C2=C1c1c(nnc(C)c1CC)C2 
+ tensor([0.9192]) 
+ similarity: 0.23214285714285715 
+
+ Steps: 1400 
+ C=CNCC1Cn2cc(C)c(C)c2C2=C1c1c(nnc(C)c1CC)C2 
+ tensor([0.9192]) 
+ similarity: 0.23214285714285715 
+
+ Steps: 1500 
+ C=CNCC1Cn2cc(C)c(C)c2C2=C1c1c(nnc(C)c1CC)C2 
+ tensor([0.9192]) 
+ similarity: 0.23214285714285715 
+
+ Steps: 1600 
+ C=CNCC1Cn2cc(C)c(C)c2C2=C1c1c(nnc(C)c1CC)C2 
+ tensor([0.9192]) 
+ similarity: 0.23214285714285715 
+
+ Steps: 1700 
+ C=CNCC1Cn2cc(C)c(C)c2C2=C1c1c(nnc(C)c1CC)C2 
+ tensor([0.9192]) 
+ similarity: 0.23214285714285715 
+
+ Steps: 1800 
+ C=CNCC1Cn2cc(C)c(C)c2C2=C1c1c(nnc(C)c1CC)C2 
+ tensor([0.9192]) 
+ similarity: 0.23214285714285715 
+
+ Steps: 1900 
+ C=CNCC1Cn2cc(C)c(C)c2C2=C1c1c(nnc(C)c1CC)C2 
+ tensor([0.9192]) 
+ similarity: 0.23214285714285715 
+
+ Steps: 2000 
+ C=CNCC1Cn2cc(C)c(C)c2C2=C1c1c(nnc(C)c1CC)C2 
+ tensor([0.9192]) 
+ similarity: 0.23214285714285715 
+
+ Steps: 2000 
+ C=CNCC1Cn2cc(C)c(C)c2C2=C1c1c(nnc(C)c1CC)C2 
+ tensor([0.9192]) 
+ similarity: 0.23214285714285715 
