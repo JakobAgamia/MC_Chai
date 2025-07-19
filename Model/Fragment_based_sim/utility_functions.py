@@ -1,6 +1,8 @@
 from rdkit import Chem
 import random
 from rdkit.Chem import BRICS
+import os, shutil
+import numpy as np
 
 
 def read_smiles_with_placeholders(file_path):
@@ -217,3 +219,28 @@ def create_frag_lib(mol_list):
     for i in range(len(unique_smiles)):
         unique_smiles[i] = Chem.MolFromSmiles(unique_smiles[i])
     return unique_smiles
+
+
+def save_structurs(name, step):
+    filename = os.path.basename(name)
+    best_structure = 0
+    best_score = 0
+    for i in range(5):
+        path = f'/tmp/outputs/scores.model_idx_{i}.npz'
+        data = np.load(path)
+        score = data['aggregate_score'][0]
+        if score > best_score:
+            best_structure = i
+            best_score = score
+    path_to_cif = f'/tmp/outputs/pred.model_idx_{best_structure}.cif'
+    currrent_dir = os.path.dirname(name)
+    new_folder_name = f'{filename}'
+    destination_dir = os.path.join(currrent_dir, new_folder_name)
+    if not os.path.isdir(destination_dir):
+        os.makedirs(destination_dir)
+    destination_file = os.path.join(destination_dir, os.path.basename(path_to_cif))
+    shutil.copy(path_to_cif, destination_file)
+    new_file_name = f'{filename}_{step}.cif'
+    renamed_file_path = os.path.join(destination_dir, new_file_name)
+    print(renamed_file_path)
+    os.rename(destination_file, renamed_file_path)

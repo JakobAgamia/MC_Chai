@@ -21,6 +21,12 @@ protein_cdsA = ['MLKYRLISAFVLIPVVIAALFLLPPVGFAIVTLVVCMLAAWEWGQLSGFTTRSQRVWLAVLCG
 
 protein = protein_serine
 example = MonteCarloMethode(protein, ligand, f'./serine_a1.txt')
-best = example.monte_carlo_full(2000, 50)[0]
-
-
+lig = example.monte_carlo_full(2000, 50, save=True)[0]
+# inputs: num_steps: number of simulation steps
+#         max_length: maximum number of atoms in the ligand
+#         params(optional): a list defining the likelihood of each type of chemical change, example: [0.7, 0.6, 0.55, 0.525, 0.5, 0.45, 0.3, 0.2]
+#         prob(optional): the beta factor to decide the probability of worse structures being accepted
+#         save(optional): if set to true the cif structure files will be saved in s folder
+#         params_score(optional): parameters to determine how strongly the chai-1 score and the biasing scores are taken into account, example: [0.8, 0.1, 0.05, 0.05]
+#         restraints(optional): if set top true , chai-1 will expect a file pocket.restraints which should define pocket restraint check chai-1 documentation for how to set up
+#         filepath(optional); folder for chai-1 to work in

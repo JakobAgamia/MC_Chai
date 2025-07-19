@@ -7,6 +7,7 @@ from main_functions import step_remove_frag
 from utility_functions import identify_placeholders
 from utility_functions import replace_placeholders
 from utility_functions import remove_placeholders
+from utility_functions import save_structurs
 import os
 import copy
 
@@ -19,7 +20,7 @@ class MonteCarloMethode:
         self.first_step = first_step
         self.frag_lib = frag_lib
 
-    def monte_carlo_full(self, num_steps, params=None, prob=5, params_score=None, restraints=False):
+    def monte_carlo_full(self, num_steps, params=None, prob=5, params_score=None, save=False, restraints=False):
         if params is None:
             params = 0.4
         if params_score is None:
@@ -95,6 +96,11 @@ class MonteCarloMethode:
                     best_lig = lig
                     best_placeholder_dict = copy.deepcopy(placeholder_dict)
             s += 1
+            if save:
+                if s % 1 == 0:
+                    name = os.path.splitext(file_path)[0]
+                    steps = s + count
+                    save_structurs(name, steps)
             if s == 50:
                 s = 0
                 lig = best_lig
