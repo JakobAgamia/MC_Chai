@@ -369,7 +369,7 @@ def step_switch(lig, max_len):
             if side_chain == side_chain1 or rand > 0.9 or neighbours_c:
                 if not atom.IsInRing():
                     try:
-                        new_ligand = add_atom_in_chain(lig, atom_idx, side_chain, second_atom_idx)
+                        new_ligand = add_atom_in_chain(lig, atom_idx, side_chain)
                         s = True
                         break
                     except Exception as e:
@@ -384,7 +384,7 @@ def step_switch(lig, max_len):
                     total_lenght = len(ring_of_interest) + 1
                     if total_lenght < 7:
                         try:
-                            new_ligand = add_atom_in_chain(lig, atom_idx, side_chain, second_atom_idx)
+                            new_ligand = add_atom_in_chain(lig, atom_idx, side_chain)
                             ring_of_interest = list(ring_of_interest)
                             ring_of_interest.append(length)
                             new_ligand = create_combinations(new_ligand, ring_of_interest)
